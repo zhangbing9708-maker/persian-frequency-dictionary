@@ -1,0 +1,2004 @@
+list_number	list_title	rank	headword	ipa	gloss
+1	Animals	351	ماده	mɑde	female
+1	Animals	1434	ماهی	mɑhi	fish
+1	Animals	1593	شیر	ʃir	lion
+1	Animals	1675	کره	korre	foal
+1	Animals	1927	حیوان	hejvɑn	animal
+1	Animals	1952	پرنده	pærænde	bird
+1	Animals	2761	اسب	æsb	horse
+1	Animals	3050	پروانه	pærvɑne	butterfly
+1	Animals	3405	سگ	sæɡ	dog
+1	Animals	3670	موش	muʃ	mouse, rat
+1	Animals	3877	پیشی	piʃi	cat, kitten
+1	Animals	4238	گاو	ɡɑv	cow, bull, ox
+1	Animals	4490	مار	mɑr	snake
+1	Animals	4548	گوسفند	ɡusfænd	sheep
+1	Animals	4858	جانور	ʤɑnevær	animal
+1	Animals	4888	گربه	ɡorbe	cat
+1	Animals	5012	وال	vɑl	whale
+1	Animals	5061	کرم	kerm	worm
+1	Animals	5126	ببر	bæbr	tiger
+1	Animals	5135	گرگ	ɡorɡ	wolf
+1	Animals	5235	خر	xær	donkey
+1	Animals	5470	شتر	ʃotor	camel
+1	Animals	5537	میمون	mejmun	monkey, ape
+1	Animals	6049	اردک	ordæk	duck
+1	Animals	6126	جوجه	ʤuʤe	chick
+1	Animals	6140	قوچ	quʧ	ram
+1	Animals	6190	فیل	fil	elephant
+1	Animals	6678	پلنگ	pælænɡ	leopard
+1	Animals	6687	خرس	xers	bear
+1	Animals	6696	آهو	ɑhu	deer
+1	Animals	6778	خوک	xuk	pig
+1	Animals	6898	قورباغه	ɣurbɑɣe	frog
+1	Animals	6993	مورچه	murʧe	ant
+1	Animals	6999	نر	nær	male
+1	Animals	7124	پشه	pæʃe	mosquito
+1	Animals	7770	نهنگ	næhænɡ	whale
+1	Animals	8091	خزنده	xæzænde	reptile
+1	Animals	8120	روباه	rubɑh	fox
+1	Animals	8209	کبوتر	kæbutær	pigeon
+1	Animals	8421	بید	bid	moth
+1	Animals	9254	خرگوش	xærɡuʃ	rabbit
+1	Animals	9405	پرستو	pæræstu	swallow
+1	Animals	9548	پستاندار	pestɑndɑr	mammal
+1	Animals	9605	یوزپلنگ	juzpælænɡ	cheetah
+1	Animals	9808	دلفین	dolfin	dolphin
+1	Animals	10124	خفاش	xoffɑʃ	bat
+1	Animals	10240	مگس	mæɡæs	fly
+1	Animals	10496	گوساله	ɡusɑle	calf
+1	Animals	10830	گوزن	ɡævæzn	deer
+1	Animals	11326	توله	tule	pup, cub
+1	Animals	11817	کرگدن	kærɡædæn	rhinoceros
+1	Animals	11866	گورخر	ɡurexær	wild ass
+1	Animals	11950	مرغابی	morɣɑbi	duck
+1	Animals	12260	سوسک	susk	beetle
+1	Animals	13049	قاطر	ɣɑter	mule
+1	Animals	13484	شغال	ʃoɣɑl	jackal
+1	Animals	14181	مادیان	mɑdijɑn	mare
+1	Animals	14785	تمساح	temsɑh	crocodile
+1	Animals	14806	حلزون	hælæzun	snail
+1	Animals	14897	غزال	ɣæzɑl	gazelle
+1	Animals	14974	شامپانزه	ʃɑmpɑnze	chimpanzee
+1	Animals	15094	گراز	ɡorɑz	boar
+1	Animals	15989	کفتر	kæftær	pigeon
+1	Animals	17691	زالو	zɑlu	leech
+2	Body	46	صورت	suræt	face
+2	Body	66	دست	dæst	hand
+2	Body	82	رو	ru	face
+2	Body	216	سر	sær	head
+2	Body	229	گونه	ɡune	cheek
+2	Body	383	زبان	zæbɑn	tongue
+2	Body	531	رخ	rox	face
+2	Body	566	خون	xun	blood
+2	Body	587	چهره	ʧehre	face
+2	Body	590	چشم	ʧeʃm	eye
+2	Body	628	پا	pɑ	foot, leg
+2	Body	660	عین	ejn	eye
+2	Body	740	شش	ʃoʃ	lung
+2	Body	910	دل	del	heart
+2	Body	958	پشت	poʃt	back
+2	Body	1083	کلیه	kolje	kidney
+2	Body	1341	قلب	ɣælb	heart
+2	Body	1650	مغز	mæɣz	brain
+2	Body	1715	گوش	ɡuʃ	ear
+2	Body	1766	رأس	ræʔs	head
+2	Body	1872	سینه	sine	breast
+2	Body	2059	پوست	pust	skin
+2	Body	2525	بینی	bini	nose
+2	Body	2544	گردن	ɡærdæn	neck
+2	Body	2581	مو	mu	hair
+2	Body	2635	دهان	dæhɑn	mouth
+2	Body	2816	کف	kæf	palm
+2	Body	2891	دندان	dændɑn	tooth
+2	Body	2991	استخوان	ostoxɑn	bone
+2	Body	3114	لب	læb	lip
+2	Body	3162	انگشت	ænɡoʃt	finger
+2	Body	3207	عصب	æsæb	nerve
+2	Body	3639	شانه	ʃɑne	shoulder
+2	Body	3946	زانو	zɑnu	knee
+2	Body	4140	کمر	kæmær	waist
+2	Body	4160	مشت	moʃt	fist
+2	Body	4190	رحم	ræhem	womb
+2	Body	4365	شکم	ʃekæm	stomach
+2	Body	4585	بازو	bɑzu	arm
+2	Body	5122	کله	kælle	head
+2	Body	5345	معده	meʔde	stomach
+2	Body	5511	روده	rude	intestine
+2	Body	5611	عضله	æzole	muscle
+2	Body	5643	گلو	ɡælu	throat
+2	Body	5700	ابرو	æbru	eyebrow
+2	Body	5739	پیشانی	piʃɑni	forehead
+2	Body	5912	ساعد	sɑʔed	forearm
+2	Body	6387	ریه	rije	lung
+2	Body	6606	قیافه	ɣijɑfe	face
+2	Body	7395	جگر	ʤeɡær	liver
+2	Body	7484	ماهیچه	mɑhiʧe	muscle
+2	Body	7857	اسکلت	eskelet	skeleton
+2	Body	7889	چانه	ʧɑne	chin
+2	Body	8101	شریان	ʃæræjɑn	artery
+2	Body	8189	کبد	kæbed	liver
+2	Body	8361	دماغ	dæmɑɣ	nose
+2	Body	8665	ناخن	nɑxon	nail
+2	Body	8918	مچ	moʧ	wrist, ankle
+2	Body	9650	پاشنه	pɑʃne	heel
+2	Body	10709	مژه	moʒe	eyelash
+2	Body	12001	مخ	mox	cerebrum
+2	Body	12588	پستان	pestɑn	breast
+2	Body	16065	لپ	lop	cheek
+2	Body	16877	آرواره	ɑrvɑre	jaw
+3	Clothing	1508	لباس	lebɑs	clothing
+3	Clothing	2692	پوتین	putin	boots
+3	Clothing	3463	جامه	ʤɑme	clothes
+3	Clothing	3539	پیراهن	pirɑhæn	shirt
+3	Clothing	3678	کیف	kif	bag
+3	Clothing	3844	کفش	kæfʃ	shoe
+3	Clothing	3955	دامن	dɑmæn	skirt
+3	Clothing	3998	جیب	ʤejb, ʤib	collar, pocket
+3	Clothing	4140	کمر	kæmær	belt
+3	Clothing	4256	کلاه	kolɑh	hat
+3	Clothing	4290	کمربند	kæmærbænd	belt
+3	Clothing	4682	چادر	ʧɑdor	chador
+3	Clothing	4691	تل	tel	headband
+3	Clothing	4838	پوشاک	puʃɑk	clothing
+3	Clothing	5106	بارانی	bɑrɑni	raincoat
+3	Clothing	6378	شلوار	ʃælvɑr	pants
+3	Clothing	6532	کت	kot	coat
+3	Clothing	7376	روسری	rusæri	headscarf
+3	Clothing	7490	عصا	æsɑ	cane
+3	Clothing	7531	دستمال	dæstmɑl	handkerchief
+3	Clothing	7539	شال	ʃɑl	shawl
+3	Clothing	7594	چکمه	ʧækme	boots
+3	Clothing	7617	آستین	ɑstin	sleeve
+3	Clothing	7680	رخت	ræxt	clothes
+3	Clothing	8344	دکمه	dokme	button
+3	Clothing	9645	دستکش	dæstkeʃ	glove
+3	Clothing	9650	پاشنه	pɑʃne	heel
+3	Clothing	10061	جوراب	ʤurɑb	socks
+3	Clothing	10255	یقه	jæɣe	collar
+3	Clothing	11059	پالتو	pɑltow	overcoat
+3	Clothing	11894	عبا	æbɑ	sleeveless outer garment
+3	Clothing	12564	مانتو	mɑnto	loose female outer garment
+3	Clothing	12820	روپوش	rupuʃ	loose female outer garment, uniform
+3	Clothing	13000	ردا	rædɑ	outer garment
+3	Clothing	13033	کراوات	krɑvɑt	tie
+3	Clothing	13902	آستر	ɑstær	lining
+3	Clothing	14384	پاچه	pɑʧe	trouser leg
+3	Clothing	14612	چارقد	ʧɑrɣæd	scarf
+3	Clothing	14935	جلیقه	ʤeliɣe	vest
+3	Clothing	15472	روبان	rubɑn	ribbon
+3	Clothing	16070	گیوه	ɡive	cotton sandals
+3	Clothing	16169	مایو	mɑjo	swimsuit
+3	Clothing	16174	زیرپوش	zirpuʃ	underwear
+3	Clothing	17267	تنبان	tombɑn	underpants
+3	Clothing	17576	مقنعه	mæɣnæʔe	head covering
+3	Clothing	17723	کاپشن	kɑpʃen	parka
+3	Clothing	17906	دگمه	doɡme	button
+3	Clothing	17991	شورت	ʃort	underwear
+3	Clothing	18630	عرقچین	æræɣʧin	skullcap
+3	Clothing	19806	ژاکت	ʒɑkæt	cardigan
+4	Colors	720	صورتی	suræti	pink
+4	Colors	951	رنگ	rænɡ	color
+4	Colors	1403	سبز	sæbz	green
+4	Colors	1595	سیاه	sijɑh	black
+4	Colors	1597	سفید	sefid	white
+4	Colors	1968	قرمز	ɣermez	red
+4	Colors	2011	طلایی	tælɑji	golden
+4	Colors	2092	آبی	ɑbi	blue
+4	Colors	2223	سرخ	sorx	red
+4	Colors	2720	رنگی	rænɡi	colored
+4	Colors	2912	کمرنگ	kæmrænɡ	pale, light
+4	Colors	3061	زرد	zærd	yellow
+4	Colors	4289	رنگین	rænɡin	colored
+4	Colors	4596	پررنگ	porrænɡ	vividly colored, dark
+4	Colors	5014	طوسی	tusi	gray
+4	Colors	5020	خاکستری	xɑkestæri	gray
+4	Colors	5467	نارنجی	nɑrenʤi	orange
+4	Colors	5528	سیاهی	sijɑhi	blackness
+4	Colors	5676	زیتونی	zejtuni	olive-green
+4	Colors	5956	رنگارنگ	rænɡɑrænɡ	colorful
+4	Colors	8118	مشکی	meʃki	black
+4	Colors	8518	قهوه‌ای	ɣæhveʔi	brown
+4	Colors	8904	سفیدی	sefidi	whiteness
+4	Colors	9151	نیلی	nili	indigo
+4	Colors	9221	کبود	kæbud	dark blue
+4	Colors	9363	بنفش	bænæfʃ	violet
+4	Colors	10507	فیروزه‌ای	firuzeʔi	turquoise
+4	Colors	11193	نقره‌ای	noɣreʔi	silver
+4	Colors	11816	سرخی	sorxi	redness
+4	Colors	11861	ارغوانی	ærɣævɑni	purple
+4	Colors	12024	قرمزی	ɣermezi	redness
+4	Colors	12996	زردی	zærdi	yellowness
+4	Colors	14724	همرنگ	hæmræng	same color
+4	Colors	15545	بی‌رنگ	birænɡ	colorless
+4	Colors	16118	کبودی	kæbudi	blueness
+4	Colors	16359	خرمایی	xormgji	chestnut brown
+5	Countries	43	ایران	irɑn	Iran
+5	Countries	107	آمریکا	ɑmrikɑ	America
+5	Countries	389	فرانسه	færɑnse	France
+5	Countries	433	افغانستان	æfɣɑnestɑn	Afghanistan
+5	Countries	458	چین	ʧin	China
+5	Countries	518	عراق	erɑɣ	Iraq
+5	Countries	568	روسیه	rusije	Russia
+5	Countries	594	آلمان	ɑlmɑn	Germany
+5	Countries	611	انگلیس	enɡelis	England, Britain
+5	Countries	621	ترکیه	torkije	Turkey
+5	Countries	712	هند	hend	India
+5	Countries	845	پاکستان	pɑkestɑn	Pakistan
+5	Countries	856	سوریه	surije	Syria
+5	Countries	867	ژاپن	ʒɑpon	Japan
+5	Countries	913	اسرائیل	esrɑʔil	Israel
+5	Countries	1000	ایتالیا	itɑlijɑ	Italy
+5	Countries	1119	مصر	mesr	Egypt
+5	Countries	1125	لبنان	lobnɑn	Lebanon
+5	Countries	1130	انگلستان	enɡelestɑn	England
+5	Countries	1135	فلسطین	felestin	Palestine
+5	Countries	1364	قطر	ɣætær	Qatar
+5	Countries	1430	اسپانیا	espɑnjɑ	Spain
+5	Countries	1497	استرالیا	ostrɑlijɑ	Australia
+5	Countries	1614	یونان	junɑn	Greece
+5	Countries	1801	کانادا	kɑnɑdɑ	Canada
+5	Countries	1957	برزیل	berezil	Brazil
+5	Countries	1967	کویت	kovejt	Kuwait
+5	Countries	2001	ترکمنستان	torkæmænestɑn	Turkmenistan
+5	Countries	2108	اردن	ordon	Jordan
+5	Countries	2331	تاجیکستان	tɑʤikestɑn	Tajikistan
+5	Countries	2460	هلند	holænd	Holland
+5	Countries	2481	تایلند	tɑjlænd	Thailand
+5	Countries	2495	لیبی	libi	Libya
+5	Countries	2529	مالزی	mɑlezi	Malaysia
+5	Countries	2555	بحرین	bæhrejn	Bahrain
+5	Countries	2621	قزاقستان	ɣæzɑɣestɑn	Kazakhstan
+5	Countries	2623	یمن	jæmæn	Yemen
+5	Countries	2699	چک	ʧek	Czech
+5	Countries	2712	بریتانیا	beritɑnjɑ	Britain
+5	Countries	2759	مکزیک	mekzik	Mexico
+5	Countries	2768	ارمنستان	ærmænestɑn	Armenia
+5	Countries	2794	مغرب	mæɣreb	Morocco
+5	Countries	2870	بلژیک	belʒik	Belgium
+5	Countries	3104	اندونزی	ændonezi	Indonesia
+5	Countries	3135	آرژانتین	ɑrʒɑntin	Argentina
+5	Countries	3237	اوکراین	okrɑjn	Ukraine
+5	Countries	3242	الجزایر	ælʤæzɑjer	Algeria
+5	Countries	3278	پرتغال	porteɣɑl	Portugal
+5	Countries	3309	تونس	tunes	Tunisia
+5	Countries	3404	لهستان	læhestɑn	Poland
+5	Countries	3407	کلمبیا	kolombijɑ	Colombia
+5	Countries	3429	عمان	ommɑn	Oman
+5	Countries	3437	گرجستان	ɡorʤestɑn	Georgia
+5	Countries	3444	فیلیپین	filipin	Philippines
+5	Countries	3524	کوبا	kubɑ	Cuba
+5	Countries	3552	سودان	sudɑn	Sudan
+5	Countries	3905	اتریش	otriʃ	Austria
+5	Countries	3924	مجارستان	mæʤɑrestɑn	Hungary
+5	Countries	4032	دانمارک	dɑnmɑrk	Denmark
+5	Countries	4096	بوسنی	bosni	Bosnia
+5	Countries	4121	رومانی	romɑni	Romania
+5	Countries	4230	کره‌جنوبی	korejeʤonubi	South Korea
+5	Countries	4282	ایرلند	irlænd	Ireland
+5	Countries	4331	سنگاپور	sænɡɑpur	Singapore
+5	Countries	4386	غنا	ɣænɑ	Ghana
+5	Countries	4431	سومالی	somɑli	Somalia
+5	Countries	4600	نیجریه	niʤerije	Nigeria
+5	Countries	4612	بلغارستان	bolɣɑrestɑn	Bulgaria
+5	Countries	4619	قرقیزستان	ɣerɣizestɑn	Kyrgyzstan
+5	Countries	5044	قبرس	ɣebres	Cyprus
+5	Countries	5052	کرواسی	keroɑsi	Croatia
+5	Countries	5172	صربستان	serbestɑn	Serbia
+5	Countries	5323	شیلی	ʃili	Chile
+5	Countries	5525	نروژ	norveʒ	Norway
+5	Countries	5552	فنلاند	fænlɑnd	Finland
+5	Countries	5790	سریلانکا	serilɑnkɑ	Sri Lanka
+5	Countries	5981	بنگلادش	bænɡlɑdeʃ	Bangladesh
+5	Countries	6424	اکوادور	ekvɑdor	Ecuador
+5	Countries	6482	اتیوپی	etijopi	Ethiopia
+5	Countries	6733	بلاروس	belɑrus	Belarus
+5	Countries	6846	میانمار	mijɑnmɑr	Myanmar
+5	Countries	7146	سوئد	suʔed	Sweden
+5	Countries	7204	مراکش	mærɑkeʃ	Morocco
+5	Countries	7869	کامرون	kɑmeron	Cameroon
+5	Countries	8448	کامبوج	kɑmboʤ	Cambodia
+5	Countries	9571	سوئیس	suʔis	Switzerland
+5	Countries	11726	آنگولا	ɑnɡolɑ	Angola
+6	Electronics	71	برنامه	bærnɑme	program
+6	Electronics	409	شبکه	ʃæbæke	network
+6	Electronics	759	پرونده	pærvænde	file
+6	Electronics	794	پخش	pæxʃ	broad casting
+6	Electronics	893	تلویزیون	televizijon	television
+6	Electronics	1082	تلفن	telefon	telephone
+6	Electronics	1098	رادیو	rɑdijo	radio
+6	Electronics	1128	صفحه	sæfhe	page, screen, record
+6	Electronics	1272	پایگاه	pɑjɡɑh	site
+6	Electronics	1467	تلویزیونی	televizijoni	television
+6	Electronics	1532	اینترنت	internet	internet
+6	Electronics	1785	دوربین	durbin	camera
+6	Electronics	1888	فناوری	fænɑværi	technology
+6	Electronics	1908	تلفنی	telefoni	telephone
+6	Electronics	2149	کانال	kɑnɑl	channel
+6	Electronics	2505	الکترونیکی	elektroniki	electronic
+6	Electronics	2602	ماهواره	mɑhvɑre	satellite
+6	Electronics	2784	الکترونیک	elektronik	electronics
+6	Electronics	2900	حافظه	hɑfeze	memory
+6	Electronics	2951	اینترنتی	interneti	internet
+6	Electronics	3202	رایانه	rɑjɑne	computer
+6	Electronics	3279	کامپیوتر	kɑmpjuter	computer
+6	Electronics	3360	گوشی	ɡuʃi	receiver, headphones, phone
+6	Electronics	3372	رایانه‌ای	rɑjɑneji	computer
+6	Electronics	3452	رادیویی	rɑdijoji	radio
+6	Electronics	4003	لوح	lowh	tablet, disk
+6	Electronics	4223	موبایل	mobɑjl	mobile phone
+6	Electronics	4698	دیسک	disk	disk
+6	Electronics	5115	کامپیوتری	kɑmpjuteri	computer
+6	Electronics	5577	کاست	kɑset	cassette
+6	Electronics	8092	نمایشگر	næmɑjeʃɡær	monitor
+6	Electronics	8111	ویدیو	video	video
+6	Electronics	8148	وبلاگ	veblɑɡ	blog
+6	Electronics	8697	کلیک	kelik	click
+6	Electronics	9065	پوشه	puʃe	folder
+6	Electronics	9252	فرکانس	ferekɑns	frequency
+6	Electronics	10634	تلفن‌همراه	telefonehæmrɑh	mobile phone
+6	Electronics	10835	برنامه‌ساز	bærnɑmesɑz	programmer
+6	Electronics	11129	برنامه‌نویس	bærnɑmenevis	programmer
+6	Electronics	14501	فکس	fæks	fax
+6	Electronics	16961	دیسکت	disket	diskette
+6	Electronics	17194	گرامافون	ɡerɑmɑfon	record player
+6	Electronics	18859	وب‌سایت	vebsɑjt	website
+7	Emotion	533	رقابت	reɣɑbæt	competition
+7	Emotion	613	مهر	mehr	affection
+7	Emotion	955	خشونت	xoʃunæt	violence
+7	Emotion	984	نگرانی	neɡærɑni	anxiety
+7	Emotion	1051	دوستی	dusti	friendship
+7	Emotion	1222	علاقه	ælɑɣe	interest
+7	Emotion	1253	عشق	eʃɣ	love
+7	Emotion	1526	تفاهم	tæfɑhom	understanding
+7	Emotion	1691	ترس	tærs	fear
+7	Emotion	1894	محبت	mohæbbæt	love
+7	Emotion	2030	شادی	ʃɑdi	joy
+7	Emotion	2073	راحتی	rɑhæti	comfort
+7	Emotion	2099	وحشت	væhʃæt	panic
+7	Emotion	2226	خودداری	xoddɑri	self-control
+7	Emotion	2586	داوری	dɑværi	judgment
+7	Emotion	2859	شوق	ʃowɣ	eagerness
+7	Emotion	2890	دشمنی	doʃmæni	hostility
+7	Emotion	3109	صبر	sæbr	patience
+7	Emotion	3192	شگفتی	ʃeɡefti	surprise
+7	Emotion	3223	غم	ɣæm	sorrow, grief
+7	Emotion	3257	کشمکش	keʃmækeʃ	conflict
+7	Emotion	3334	نفرت	nefræt	hatred
+7	Emotion	3336	انتقام	enteɣɑm	revenge
+7	Emotion	3651	خرسندی	xorsændi	satisfaction, contentment
+7	Emotion	3678	کیف	kejf	intoxication
+7	Emotion	3729	هراس	hærɑs	fear
+7	Emotion	3744	کینه	kine	grudge
+7	Emotion	3793	افسردگی	æfsordeɡi	depression
+7	Emotion	4020	خوشحالی	xoʃhɑli	happiness, joy
+7	Emotion	4146	تنفر	tænæffor	aversion, hatred
+7	Emotion	4590	خصومت	xosumæt	enmity, animosity
+7	Emotion	4934	دردسر	dardesær	trouble
+7	Emotion	4978	غرور	ɣorur	pride, vanity
+7	Emotion	5431	آسایش	ɑsɑjeʃ	comfort
+7	Emotion	5480	بهت	boht	consternation
+7	Emotion	5506	سردرگمی	særdærɡomi	confusion
+7	Emotion	6093	خودخواهی	xodxɑhi	selfishness
+7	Emotion	6741	شرم	ʃærm	shame
+7	Emotion	7044	دلسوزی	delsuzi	compassion
+7	Emotion	7107	صمیمیت	sæmimijjæt	sincerity, intimacy
+7	Emotion	7290	انزجار	enzeʤɑr	disgust, aversion
+7	Emotion	7822	احساساتی	ehsɑsɑti	sentimental
+7	Emotion	8006	دلهره	delhore	fear
+7	Emotion	8257	بیزاری	bizɑri	dislike
+7	Emotion	8869	بیگانگی	biɡɑneɡi	alienation
+7	Emotion	9305	حسادت	hesɑdæt	jealousy
+7	Emotion	9510	خجالت	xeʤɑlæt	shame
+7	Emotion	10782	رنجش	rænʤeʃ	offense
+7	Emotion	11107	رفاقت	refɑɣæt	friendship
+7	Emotion	13240	ترحم	tæræhhom	compassion
+7	Emotion	13767	عداوت	ædɑvæt	enmity, animosity
+7	Emotion	13973	شعف	ʃæʔæf	glee
+7	Emotion	14509	گیجی	ɡiʤi	giddiness
+7	Emotion	16180	سوءتفاهم	suʔetæfɑhom	misunderstanding
+7	Emotion	16514	پررو	porru	cheeky
+7	Emotion	17353	سرمستی	særmæsti	joy, ecstasy
+8	Family	214	زن	zæn	wife
+8	Family	282	خانواده	xɑnevɑde	family
+8	Family	859	دختر	doxtær	daughter
+8	Family	883	پدر	pedær	father
+8	Family	930	مادر	mɑdær	mother
+8	Family	943	جاری	ʤɑri	sister-in-law
+8	Family	1064	پسر	pesær	son
+8	Family	1249	همسر	hæmsær	spouse
+8	Family	1263	برادر	bærɑdær	brother
+8	Family	1316	نوجوان	nowʤævɑn	teenager
+8	Family	1780	ازدواج	ezdevɑʤ	marriage
+8	Family	2296	شوهر	ʃowhær	husband
+8	Family	2300	بابا	bɑbɑ	dad
+8	Family	2430	خواهر	xɑhær	sister
+8	Family	3396	دایی	dɑji	maternal uncle
+8	Family	3693	طلاق	tælɑɣ	divorce
+8	Family	3724	مامان	mɑmɑn	mom
+8	Family	3858	طفل	tefl	child
+8	Family	4033	عروسی	ærusi	marriage, wedding
+8	Family	4136	عمو	æmu	paternal uncle
+8	Family	4429	عروس	ærus	bride, daugher-in-law
+8	Family	4480	داماد	dɑmɑd	groom, son-in-law
+8	Family	4556	پیرمرد	pirmærd	old man
+8	Family	4727	پیرزن	pirzæn	old woman
+8	Family	6940	نوه	næve	grandchild
+8	Family	7109	جد	ʤædd	ancestor
+8	Family	7164	خاله	xɑle	maternal aunt
+8	Family	7650	مهریه	mahrijje	bride's marriage portion
+8	Family	8751	یتیم	jætim	orphan
+8	Family	8769	بیوه	bive	widow
+8	Family	8818	داداش	dɑdɑʃ	older brother
+8	Family	9066	مادربزرگ	mɑdærbozorɡ	grandmother
+8	Family	9359	پدربزرگ	pedærbozorɡ	grandfather
+8	Family	9391	عمه	æmme	paternal aunt
+8	Family	15828	جهیزیه	ʤæhizijje	dowry
+8	Family	18644	مادرشوهر	mɑdærʃowhær	mother-in-law
+9	Female names	43	ایران	irɑn	Iran
+9	Female names	1435	ستاره	setɑre	star
+9	Female names	1521	شیرین	ʃirin	sweet
+9	Female names	2030	شادی	ʃɑdi	joy
+9	Female names	2159	شمسی	ʃæmsi	Shamsi
+9	Female names	2650	زهرا	zæhrɑ	Zahra
+9	Female names	3022	مریم	mærjæm	Maryam
+9	Female names	3031	رؤیا	roʔjɑ	dream
+9	Female names	3040	فاطمه	fɑteme	Fateme
+9	Female names	3050	پروانه	pærvɑne	butterfly
+9	Female names	3208	افسانه	æfsɑne	legend
+9	Female names	3500	الهام	elhɑm	inspiration
+9	Female names	3622	نیکی	niki	goodness, good deed
+9	Female names	3968	فرشته	fereʃte	angel
+9	Female names	4025	ابریشم	æbriʃæm	silk
+9	Female names	4137	معصومه	mæʔsume	Masume
+9	Female names	4157	هاله	hɑle	halo, aura
+9	Female names	4261	اکرم	ækræm	dearer
+9	Female names	4325	لاله	lɑle	tulip
+9	Female names	4346	لیلا	lejlɑ	Layla
+9	Female names	4350	نرگس	nærɡes	narcissus
+9	Female names	4491	یگانه	jeɡɑne	unique, sole
+9	Female names	4557	آزاده	ɑzɑde	free, liberated
+9	Female names	4639	فرزانه	færzɑne	learned, wise
+9	Female names	4640	پروین	pærvin	Parvin
+9	Female names	4735	آفرین	ɑfærin	Afarin
+9	Female names	4980	پری	pæri	fairy, Pari
+9	Female names	4984	ثمره	sæmære	fruit, offspring
+9	Female names	5271	زهره	zohre	vesper
+9	Female names	5329	فروغ	foruɣ	brightness
+9	Female names	5338	عالیه	ɑlije	supreme
+9	Female names	5448	سارا	sɑrɑ	Sara
+9	Female names	5534	گیتی	ɡiti	world
+9	Female names	5723	گوهر	ɡowhær	jewel
+9	Female names	5761	سیمین	simin	silvery
+9	Female names	5778	نازی	nɑzi	coquettish
+9	Female names	5841	مروارید	morvɑrid	pearl
+9	Female names	5849	آذر	ɑzær	fire, Azar
+9	Female names	5916	لادن	lɑdæn	nasturtium
+9	Female names	5938	مرجان	mærʤɑn	coral
+9	Female names	5943	فروزان	foruzɑn	bright
+9	Female names	6050	فرانک	færɑnæk	Faranak
+9	Female names	6075	ماری	mɑri	Marie
+9	Female names	6158	لیلی	lejli	Leyli
+9	Female names	6206	خاتون	xɑtun	lady of rank
+9	Female names	6353	زینب	zejnæb	Zeynab
+9	Female names	6385	نغمه	næɣme	melody
+9	Female names	6426	عاطفه	ɑtefe	affection
+9	Female names	6729	مهری	mehri	Mehri
+9	Female names	6748	زینت	zinæt	ornament
+10	Food	179	آب	ɑb	water
+10	Food	373	رشته	reʃte	noodle
+10	Food	1054	ماست	mɑst	yogurt
+10	Food	1203	سیر	sir	garlic
+10	Food	1275	غذا	ɣæzɑ	food
+10	Food	1365	شور	ʃur	salty
+10	Food	1434	ماهی	mɑhi	fish
+10	Food	1521	شیرین	ʃirin	sweet
+10	Food	1593	شیر	ʃir	milk
+10	Food	1635	گوشت	ɡuʃt	meat
+10	Food	1640	نان	nɑn	bread
+10	Food	1869	میوه	mive	fruit
+10	Food	2250	تلخ	tælx	bitter
+10	Food	2425	گندم	ɡændom	wheat
+10	Food	2426	برنج	berenʤ	rice
+10	Food	2449	خام	xɑm	raw
+10	Food	2527	چای	ʧɑj	tea
+10	Food	2557	مرغ	morɣ	fowl
+10	Food	2683	نمک	næmæk	salt
+10	Food	3037	قند	ɣænd	lump sugar
+10	Food	3417	شیرینی	ʃirini	sweet, pastry
+10	Food	3460	شام	ʃɑm	dinner
+10	Food	3630	رستوران	restorɑn	restaurant
+10	Food	4177	سبزی	sæbzi	greens
+10	Food	4383	فلفل	felfel	pepper
+10	Food	4538	سیب	sib	apple
+10	Food	4952	قهوه	ɣæhve	coffee
+10	Food	4957	کاسه	kɑse	bowl
+10	Food	5077	پخته	poxte	cooked
+10	Food	5081	نوشابه	nuʃɑbe	drink
+10	Food	5298	پیاز	pijɑz	onion
+10	Food	5314	آرد	ɑrd	flour
+10	Food	5335	انگور	ænɡur	grape
+10	Food	5854	پرتقال	porteɣɑl	orange
+10	Food	5902	بره	bærre	lamb
+10	Food	5988	آشپزخانه	ɑʃpæzxɑne	kitchen
+10	Food	6019	خاویار	xɑvijɑr	caviar
+10	Food	6185	قاشق	ɣɑʃoɣ	spoon
+10	Food	6213	شراب	ʃærɑb	wine
+10	Food	6227	عسل	æsæl	honey
+10	Food	6590	گردو	ɡerdu	walnut
+10	Food	6607	صبحانه	sobhɑne	breakfast
+10	Food	6623	بادام	bɑdɑm	almond
+10	Food	6643	سبزیجات	sæbziʤɑt	vegetables
+10	Food	6665	چنگال	ʧænɡɑl	fork
+10	Food	6712	آش	ɑʃ	thick soup
+10	Food	6749	مزه	mæzze	taste
+10	Food	6752	کافه	kɑfe	cafe
+10	Food	7087	توت	tut	mulberry
+10	Food	7460	ناهار	nɑhɑr	lunch
+10	Food	7496	کارد	kɑrd	knife
+10	Food	7719	گلاب	ɡolɑb	rose water
+10	Food	7840	موز	mowz	banana
+10	Food	7955	حبوبات	hobubɑt	legumes
+10	Food	8077	گیلاس	ɡilɑs	cherry
+10	Food	8289	کباب	kæbɑb	kabob
+10	Food	8752	فنجان	fenʤɑn	cup
+10	Food	9119	سیب‌زمینی	sibzæmini	potato
+10	Food	9177	دوغ	duɣ	yogurt drink
+10	Food	9368	بشقاب	boʃɣɑb	plate
+10	Food	9556	ترشی	torʃi	pickles
+10	Food	9782	هویج	hæviʤ	carrot
+10	Food	10113	سرکه	serke	vinegar
+10	Food	10123	لوبیا	lubijɑ	bean
+10	Food	10496	گوساله	ɡusɑle	calf, veal
+10	Food	10953	ادویه	ædvije	spices
+10	Food	11058	آشپزی	ɑʃpæzi	cuisine
+10	Food	11356	سوپ	sup	soup
+10	Food	11742	پلو	polow	steamed rice
+10	Food	12106	خامه	xɑme	cream
+10	Food	12555	کشک	kæʃk	whey
+10	Food	12952	آلو	ɑlu	plum
+10	Food	13043	خیار	xijɑr	cucumber
+10	Food	13173	آجیل	ɑʤil	roasted nuts, seeds
+10	Food	14070	آشپز	ɑʃpæz	cook
+10	Food	16681	عدس	ædæs	lentil
+10	Food	17067	آب‌میوه	ɑbmive	juice
+10	Food	17262	فندق	fændoɣ	hazelnut
+10	Food	19771	شاه‌توت	ʃɑhtut	black mulberry
+11	Health	375	دکتر	doktor	doctor
+11	Health	566	خون	xun	blood
+11	Health	603	بیماری	bimɑri	illness
+11	Health	840	درمان	dærmɑn	treatment
+11	Health	847	پزشکی	pezeʃki	medical
+11	Health	934	سالم	sɑlem	healthy
+11	Health	978	متخصص	motexæsses	specialist
+11	Health	1019	دارو	dɑru	drug
+11	Health	1095	بیمارستان	bimɑrestɑn	hospital
+11	Health	1129	پزشک	pezeʃk	doctor
+11	Health	1139	بیمار	bimɑr	sick, patient
+11	Health	1181	سلامت	sælɑmæt	health
+11	Health	1239	بهداشت	behdɑʃt	hygiene
+11	Health	1438	روانی	rævɑni	psychotic
+11	Health	1670	تشخیص	tæʃxis	diagnosis
+11	Health	1828	سلامتی	sælɑmæti	health
+11	Health	1901	زخمی	zæxmi	wounded
+11	Health	1941	جراحی	ʤærrɑhi	surgery
+11	Health	1991	مجروح	mæʤruh	injured
+11	Health	2003	سرطان	særætɑn	cancer
+11	Health	2080	بهداشتی	behdɑʃti	hygienic
+11	Health	2144	مخدر	moxædder	narcotic
+11	Health	2333	دارویی	dɑruji	pharmaceutical
+11	Health	2372	روحی	ruhi	spiritual, mental
+11	Health	3177	جسمانی	ʤesmɑni	corporeal, physical
+11	Health	3224	ویروس	virus	virus
+11	Health	3246	فلج	fælæʤ	crippled
+11	Health	3277	معلول	mæʔlul	disabled, effect
+11	Health	3366	زخم	zæxm	wound
+11	Health	3441	قرص	ɣors	tablet
+11	Health	3504	طب	tebb	medicine
+11	Health	3512	تب	tæb	fever
+11	Health	3681	ایدز	ejdz	AIDS
+11	Health	3799	ویتامین	vitɑmin	vitamin
+11	Health	4072	دیابت	dijɑbet	diabetes
+11	Health	4233	پرستار	pæræstɑr	nurse
+11	Health	4599	جراح	ʤærrɑh	surgeon
+11	Health	5103	روانشناس	rævɑnʃenɑs	psychologist
+11	Health	5494	داروسازی	dɑrusɑzi	pharmacology
+11	Health	5640	کلینیک	kelinik	clinic
+11	Health	5797	اورژانس	urʒɑns	emergency
+11	Health	5852	عفونت	ofunæt	infection
+11	Health	6010	جنون	ʤonun	insanity
+11	Health	6269	مریض	mæriz	sick
+11	Health	6750	سرماخوردگی	særmɑxordeɡi	common cold
+11	Health	6790	داروخانه	dɑruxɑne	pharmacy
+11	Health	6887	فوت کردن	fowt kærdæn	die
+11	Health	6895	شکستگی	ʃekæsteɡi	fracture
+11	Health	7331	سل	sel	tuberculosis
+11	Health	7873	تندرستی	tændorosti	health
+11	Health	7983	سوختگی	suxteɡi	burn
+11	Health	8715	سرخک	sorxæk	measles
+11	Health	8835	اسهال	eshɑl	diarrhea
+11	Health	8920	سرفه	sorfe	cough
+11	Health	9509	استفراغ	estefrɑɣ	vomiting
+11	Health	9637	بیهوشی	bihuʃi	unconsciousness, anesthesia
+11	Health	9735	داروساز	dɑrusɑz	pharmacist
+11	Health	10102	حامله	hɑmele	pregnant
+11	Health	10380	آمبولانس	ɑmbulɑns	ambulance
+11	Health	10391	طاعون	tɑʔun	plague
+11	Health	11702	تندرست	tændorost	healthy
+11	Health	11808	فشارخون	feʃɑrexun	blood pressure
+11	Health	12480	آسایشگاه	ɑsɑjeʃɡɑh	sanatorium
+11	Health	12885	پارگی	pɑreɡi	cut
+11	Health	13057	آمپول	ɑmpul	injection, ampoule
+11	Health	14328	آنفلوآنزا	ɑnfluɑnza	flu
+11	Health	14423	آبله	ɑbele	smallpox, blister
+11	Health	15087	عمل‌جراحی	æmæleʤorɑhi	operation
+11	Health	16919	عطسه	ætse	sneeze
+12	Last names	86	اسلامی	eslɑmi	Islamic
+12	Last names	170	بزرگی	bozorɡi	magnitude
+12	Last names	233	ایرانی	irɑni	Iranian
+12	Last names	396	زمانی	zæmɑni	chronological
+12	Last names	486	نظامی	nezɑmi	military
+12	Last names	833	باقی	bɑɣi	remaining
+12	Last names	858	فردی	færdi	individual
+12	Last names	871	قربانی	ɣorbɑni	victim, sacrifice
+12	Last names	1039	کشوری	keʃværi	state
+12	Last names	1042	فکری	fekri	mental, intellectual
+12	Last names	1145	قاضی	ɣɑzi	judge
+12	Last names	1162	قهرمان	ɣæhremɑn	champion
+12	Last names	1205	مقدس	moɣæddæs	holy
+12	Last names	1359	مهاجر	mohɑʤer	immigrant
+12	Last names	1499	خاتمی	xɑtæmi	Khatami
+12	Last names	1533	یاری	jɑri	help
+12	Last names	1540	حقیقی	hæɣiɣi	real
+12	Last names	1582	الهی	elɑhi	divine
+12	Last names	1606	حسینی	hosejni	Hosseini
+12	Last names	1655	خمینی	xomejni	Khomeini
+12	Last names	1751	محمدی	mohæmmædi	Mohammadi
+12	Last names	1824	نوری	nuri	light
+12	Last names	1828	سلامتی	sælɑmæti	health
+12	Last names	1853	روحانی	rowhɑni	cleric, Rowhani
+12	Last names	1934	پهلوی	pæhlævi	Pahlavi
+12	Last names	2011	طلایی	tælɑji	golden
+12	Last names	2057	جلالی	ʤælɑli	Jalali
+12	Last names	2084	کشاورز	keʃɑværz	farmer
+12	Last names	2234	طوفان	tufɑn	storm
+12	Last names	2261	عراقی	erɑɣi	Iraqi
+12	Last names	2295	هاشمی	hɑʃemi	Hashemi
+12	Last names	2298	گلستان	ɡolestɑn	rose garden, Golestan
+12	Last names	2324	برقی	bærɣi	electric
+12	Last names	2337	ریاضی	rijɑzi	mathematical
+12	Last names	2372	روحی	ruhi	spiritual, mental
+12	Last names	2380	عباسی	æbbɑsi	Abbasi, Abbasid
+12	Last names	2384	نیازی	nijɑzi	Niazi
+12	Last names	2454	واحدی	vɑhedi	Vahedi
+12	Last names	2478	شیرازی	ʃirɑzi	Shirazi
+12	Last names	2485	عظیمی	æzimi	greatness, Azimi
+12	Last names	2491	بیرونی	biruni	external
+12	Last names	2648	جعفری	ʤæʔfæri	Jafari
+12	Last names	2702	باستانی	bɑstɑni	ancient
+12	Last names	2710	افتخاری	eftexɑri	honorary
+12	Last names	2718	درخشان	deræxʃɑn	brilliant
+12	Last names	2772	اقبال	eɣbɑl	good luck, Eghbal
+12	Last names	2773	توفیق	towfiɣ	success
+12	Last names	2786	سعادت	sæʔɑdæt	happiness
+12	Last names	2834	رضایی	rezɑji	Rezai
+12	Last names	2845	کریمی	kærimi	Karimi
+12	Last names	2872	عزیزی	æzizi	Azizi, dear
+12	Last names	2932	موسوی	musævi	Mousavi
+12	Last names	2933	بازرگان	bɑzærɡɑn	merchant
+12	Last names	2949	فاتح	fɑteh	victorious
+12	Last names	3001	ظریف	zærif	delicate
+12	Last names	3003	آبادانی	ɑbɑdɑni	development
+12	Last names	3036	فردوسی	ferdowsi	Ferdowsi
+12	Last names	3099	سعدی	sæʔdi	Sa'di
+12	Last names	3139	سروش	soruʃ	angel
+12	Last names	3142	مجاهد	moʤɑhed	holy warrior
+12	Last names	3155	حکیم	hækim	wise person
+12	Last names	3219	رازی	rɑzi	Razi
+12	Last names	3294	بهاری	bæhɑri	spring
+12	Last names	3318	وزیری	væziri	ministerial, Vaziri
+12	Last names	3322	اصفهانی	esfæhɑni	Esfahani
+12	Last names	3341	مرادی	morɑdi	Moradi
+12	Last names	3348	صمیمی	sæmimi	intimate
+12	Last names	3365	تاجر	tɑʤer	merchant
+12	Last names	3385	انصاری	ansɑri	Ansari
+12	Last names	3408	بهبودی	behbudi	improvement, gaining in health
+12	Last names	3435	رضوی	ræzævi	Razavi
+12	Last names	3453	سوری	suri	Syrian
+12	Last names	3473	خیابانی	xijɑbɑni	street
+12	Last names	3491	نوروزی	nowruzi	Nowruz
+12	Last names	3526	صفوی	sæfævi	Safavid
+12	Last names	3540	تهرانی	tehrɑni	Tehrani
+12	Last names	3556	باقری	bɑɣeri	Bagheri
+12	Last names	3568	قاسمی	ɣɑsemi	Ghasemi
+12	Last names	3581	نامدار	nɑmdɑr	famous
+12	Last names	3588	نصر	næsr	Nasr, help
+12	Last names	3609	بهشتی	beheʃti	heavenly, Beheshti
+12	Last names	3625	شرف	ʃæræf	honor
+12	Last names	3637	غریب	ɣærib	strange
+12	Last names	3854	بختیاری	bæxtijɑri	Bakhtiari
+12	Last names	3859	کاشانی	kɑʃɑni	Kashani
+12	Last names	3868	متولی	motævælli	custodian, administrator
+12	Last names	3925	کروبی	kærrubi	Karroubi
+12	Last names	3957	ابراهیمی	ebrɑhimi	Ebrahimi, Abrahamic
+12	Last names	3993	مجیدی	mæʤidi	Majidi
+12	Last names	3994	اکبری	ækbæri	Akbari
+12	Last names	4002	صادقی	sɑdeɣi	Sadeghi
+12	Last names	4024	شریعتی	ʃæriʔæti	Shariati
+12	Last names	4062	تبریزی	tæbrizi	Tabrizi
+12	Last names	4122	امیدی	omidi	Omidi
+12	Last names	4149	حیدری	hejdæri	Heidari
+12	Last names	4151	امینی	æmini	Amini
+12	Last names	4161	رفسنجانی	ræfsænʤɑni	Rafsanjani
+12	Last names	4169	طباطبایی	tæbɑtæbɑji	Tabatabai
+12	Last names	4186	حسنی	hosni, hæsæni	Hosni, Hasani
+12	Last names	4254	رحیمی	ræhimi	Rahimi
+12	Last names	4272	فضل	fæzl	excellence, erudition
+12	Last names	4275	سعیدی	sæʔidi	Saidi
+12	Last names	4283	خامنه‌ای	xɑmeneji	Khamenei
+12	Last names	4294	تختی	tæxti	Takhti
+12	Last names	4297	جنگلی	ʤænɡæli	forest
+12	Last names	4415	دوستدار	dustdɑr	devotee
+12	Last names	4456	یوسفی	jusefi	Yusefi
+12	Last names	4529	شکیبایی	ʃækibɑji	patience, fortitude
+12	Last names	4532	یزدی	jæzdi	Yazdi
+12	Last names	4554	سالاری	sɑlɑri	chiefship, -cracy, -archy
+12	Last names	4557	آزاده	ɑzɑde	free, liberated
+12	Last names	4569	مهاجرانی	mohɑʤerɑni	Mohajerani
+12	Last names	4574	اعتمادی	eʔtemɑdi	Etemadi
+12	Last names	4598	صالحی	sɑlehi	Salehi
+12	Last names	4601	نجفی	næʤæfi	Najafi
+12	Last names	4690	ملکی	mæleki	Maleki
+12	Last names	4700	کاظمی	kɑzemi	Kazemi
+12	Last names	4712	لاریجانی	lɑriʤɑni	Larijani
+12	Last names	4718	مفیدی	mofidi	Mofidi, useful
+12	Last names	4722	قرآنی	ɣorʔɑni	Koranic
+12	Last names	4732	حسابی	hesɑbi	proper
+12	Last names	4733	پهلوان	pæhlævɑn	champion, hero
+12	Last names	4735	آفرین	ɑfærin	congratulations
+12	Last names	4781	امامی	emɑmi	imam, Emami
+12	Last names	4810	علیزاده	ælizɑde	Alizadeh
+12	Last names	4876	خرازی	xærrɑzi	haberdashery
+12	Last names	4879	جنتی	ʤænnæti	Jannati
+12	Last names	4919	استواری	ostovɑri	stability
+12	Last names	4946	محمودی	mæhmudi	Mahmudi
+12	Last names	4956	ولایتی	velɑjæti	provincial
+12	Last names	4976	کلانتری	kælɑntæri	police station
+12	Last names	4998	سلطانی	soltɑni	Soltani
+13	Light verb constructions	115	نشان دادن	neʃɑn dɑdæn	show
+13	Light verb constructions	137	قرار گرفتن	ɣærɑr ɡereftæn	be located
+13	Light verb constructions	162	وجود داشتن	voʤud dɑʃtæn	exist
+13	Light verb constructions	169	انجام دادن	ænʤɑm dɑdæn	accomplish
+13	Light verb constructions	217	دست دادن	dæst dɑdæn	shake hands, lose
+13	Light verb constructions	288	پیدا کردن	pejdɑ kærdæn	find
+13	Light verb constructions	313	قرار دادن	ɣærɑr dɑdæn	put, place
+13	Light verb constructions	331	قرار داشتن	ɣærɑr dɑʃtæn	be located
+13	Light verb constructions	347	استفاده کردن	estefɑde kærdæn	use
+13	Light verb constructions	369	خارج شدن	xɑreʤ ʃodæn	leave
+13	Light verb constructions	395	ادامه دادن	edɑme dɑdæn	continue
+13	Light verb constructions	405	قرار بودن	ɣærɑr budæn	be supposed to
+13	Light verb constructions	462	انجام شدن	ænʤɑm ʃodæn	be done
+13	Light verb constructions	498	انتخاب کردن	entexɑb kærdæn	elect, choose
+13	Light verb constructions	614	عمل کردن	æmæl kærdæn	act, perform
+13	Light verb constructions	649	سال بودن	sɑl budæn	be years since
+13	Light verb constructions	670	آغاز شدن	ɑɣɑz ʃodæn	begin
+13	Light verb constructions	713	اعلام کردن	eɁlɑm kærdæn	announce
+13	Light verb constructions	719	فکر کردن	fekr kærdæn	think
+13	Light verb constructions	736	معرفی کردن	moɁærrefi kærdæn	introduce
+13	Light verb constructions	765	اتفاق افتادن	ettefɑɣ oftɑdæn	happen
+13	Light verb constructions	778	وارد شدن	vɑred ʃodæn	enter
+13	Light verb constructions	822	برخوردار بودن	bærxordɑr budæn	be in possession
+13	Light verb constructions	832	زندگی کردن	zendeɡi kærdæn	live
+13	Light verb constructions	838	اجازه دادن	eʤɑze dɑdæn	permit
+13	Light verb constructions	841	کار کردن	kɑr kærdæn	work
+13	Light verb constructions	861	کمک کردن	komæk kærdæn	help
+13	Light verb constructions	881	باعث شدن	bɑes ʃodæn	cause
+13	Light verb constructions	922	تبدیل شدن	tæbdil ʃodæn	convert
+13	Light verb constructions	941	سعی کردن	sæɁj kærdæn	try
+13	Light verb constructions	990	تصمیم گرفتن	tæsmim ɡereftæn	decide
+13	Light verb constructions	1028	ایجاد کردن	iʤɑd kærdæn	create
+13	Light verb constructions	1044	مطرح کردن	mætræh kærdæn	propose
+13	Light verb constructions	1081	تشکیل دادن	tæʃkil dɑdæn	form
+13	Light verb constructions	1122	توجه کردن	tævæʤʤoh kærdæn	pay attention
+13	Light verb constructions	1131	گفته شدن	ɡofte ʃodæn	be said
+13	Light verb constructions	1198	افزایش یافتن	æfzɑjeʃ jɑftæn	increase
+13	Light verb constructions	1219	تلاش کردن	tælɑʃ kærdæn	make effort
+13	Light verb constructions	1220	شکست خوردن	ʃekæst xordæn	be defeated
+13	Light verb constructions	1244	آغاز کردن	ɑɣɑz kærdæn	begin
+13	Light verb constructions	1255	بازی کردن	bɑzi kærdæn	play
+13	Light verb constructions	1276	شروع شدن	ʃoruɁ kærdæn	begin
+13	Light verb constructions	1291	پاسخ دادن	pɑsox dɑdæn	reply
+13	Light verb constructions	1293	تغییر دادن	tæɣjir dɑdæn	change
+13	Light verb constructions	1310	فراهم کردن	færɑhæm kærdæn	assemble
+13	Light verb constructions	1312	نیاز داشتن	nijɑz dɑʃtæn	need
+13	Light verb constructions	1479	خبر دادن	xæbær dɑdæn	inform
+13	Light verb constructions	1348	شرکت کردن	ʃerkæt kærdæn	participate
+13	Light verb constructions	1358	ترک کردن	tærk kærdæn	leave, abandon
+13	Light verb constructions	1378	حرکت کردن	hærekæt kærdæn	move, set off
+13	Light verb constructions	1411	انتظار داشتن	entezɑr dɑʃtæn	expect
+13	Light verb constructions	1427	صحبت کردن	sohbæt kærdæn	talk
+13	Light verb constructions	1455	درست بودن	dorost budæn	be right
+13	Light verb constructions	1468	قصد داشتن	ɣæsd dɑʃtæn	intend
+13	Light verb constructions	1490	وارد کردن	vɑred kærdæn	import, enter
+13	Light verb constructions	1491	تأکید کردن	tæɁkid kærdæn	emphasize
+13	Light verb constructions	1495	معرفی شدن	moɁærrefi ʃodæn	be introduced
+13	Light verb constructions	1505	استفاده شدن	estefɑde ʃodæn	be used
+13	Light verb constructions	1519	مواجه شدن	movɑʤeh ʃodæn	be confronted
+13	Light verb constructions	1525	امیدوار بودن	omidvɑr budæn	be hopeful
+13	Light verb constructions	1529	جا گرفتن	ʤɑ ɡereftæn	reserve, hold
+13	Light verb constructions	1534	اظهار داشتن	ezhɑr dɑʃtæn	express, declare
+13	Light verb constructions	1559	دریافت کردن	dærjɑft kærdæn	receive
+13	Light verb constructions	1560	راه انداختن	rɑh ændɑxtæn	operate, launch
+13	Light verb constructions	1561	احساس کردن	ehsɑs kærdæn	feel
+13	Light verb constructions	1563	حفظ کردن	hefz kærdæn	protect, memorize
+13	Light verb constructions	1575	روبرو شدن	ruberu ʃodæn	meet
+13	Light verb constructions	1602	باقی ماندن	bɑɣi mɑndæn	remain
+13	Light verb constructions	1623	نادیده گرفتن	nɑdide ɡereftæn	overlook
+13	Light verb constructions	1629	سخن گفتن	soxæn ɡoftæn	speak, talk
+13	Light verb constructions	1634	دوست داشتن	dust dɑʃtæn	like
+13	Light verb constructions	1657	دنبال کردن	donbɑl kærdæn	look for
+13	Light verb constructions	1664	رو آوردن	ru ɑvordæn	turn
+13	Light verb constructions	1778	مواجه بودن	movɑʤe budæn	confront
+13	Light verb constructions	1781	واقع شدن	vɑɣeʔ ʃodæn	happen, be located
+13	Light verb constructions	1719	نگاه کردن	neɡɑh kærdæn	look
+13	Light verb constructions	1726	تمام شدن	tæmɑm ʃodæn	finish
+13	Light verb constructions	1753	سفر کردن	sæfær kærdæn	travel
+13	Light verb constructions	1808	حل شدن	hæl ʃodæn	dissolve, be solved
+13	Light verb constructions	1813	حل کردن	hæl kærdæn	solve
+13	Light verb constructions	1835	صادر شدن	sɑder ʃodæn	be exported, issued
+13	Light verb constructions	1883	آشنا شدن	ɑʃnɑ ʃodæn	be familiar, acquainted
+13	Light verb constructions	1891	اجرا کردن	eʤrɑ kærdæn	execute, perform
+13	Light verb constructions	1907	تولید شدن	towlid ʃodæn	be produced
+13	Light verb constructions	2022	بیان کردن	bæjɑn kærdæn	state, express
+13	Light verb constructions	2023	تغییر کردن	tæɣjir kærdæn	change
+13	Light verb constructions	1960	تعیین کردن	tæʔjin kærdæan	determine, appoint
+13	Light verb constructions	2016	آزاد شدن	ɑzɑd ʃodæn	be freed
+13	Light verb constructions	2029	ثابت کردن	sɑbet kærdæn	prove
+13	Light verb constructions	2047	رد کردن	ræd kærdæn	reject
+13	Light verb constructions	2054	صادر کردن	sɑder kærdæn	export, issue
+13	Light verb constructions	2065	بالا رفتن	bɑlɑ ræftæn	go up
+13	Light verb constructions	2118	شروع کردن	ʃoruʔ kærdæn	begin
+13	Light verb constructions	2120	حرف زدن	hærf zædæn	speak
+13	Light verb constructions	2127	بررسی کردن	bærræsi kærdæn	examine
+13	Light verb constructions	2186	درک کردن	dærk kærdæn	comprehend
+13	Light verb constructions	2248	تأکید داشتن	tæʔkid dɑʃtæn	emphasize
+13	Light verb constructions	2188	تجربه کردن	tæʤrobe kærdæn	experience
+13	Light verb constructions	2196	جا گذاشتن	ʤɑɡozɑʃtæn	leave behind
+13	Light verb constructions	2207	تأثیر گذاشتن	tæʔsir ɡozɑʃtæn	leave impression
+13	Light verb constructions	2277	متوجه شدن	motevæʤʤeh ʃodæn	notice
+13	Light verb constructions	2288	تصور کردن	tæsavvor kærdæn	imagine
+13	Light verb constructions	2306	شکست دادن	ʃekæst dɑdæn	defeat
+13	Light verb constructions	2309	تولید کردن	towlid kærdæn	produce
+13	Light verb constructions	2335	خودداری کردن	xoddɑri kærdæn	refrain
+13	Light verb constructions	2411	تعریف کردن	tæʔrif kærdæn	define, describe
+13	Light verb constructions	2358	جلوگیری کردن	ʤelowɡiri kærdæn	prevent
+13	Light verb constructions	2366	توضیح دادن	towzih dɑdæn	explain
+13	Light verb constructions	2435	گزارش دادن	ɡozɑreʃ dɑdæn	report
+13	Light verb constructions	2447	استقبال کردن	esteɣbɑl kærdæn	welcome
+13	Light verb constructions	2462	توصیف کردن	towsif kærdæn	describe
+13	Light verb constructions	2473	توصیه کردن	towsije kærdæn	recommend
+13	Light verb constructions	2483	ترجیح دادن	tærʤih dɑdæn	prefer
+13	Light verb constructions	2488	نگه داشتن	neɡæh dɑʃtæn	keep
+13	Light verb constructions	2511	شناسایی کردن	ʃenɑsɑji kærdæn	identify
+13	Light verb constructions	2515	باز کردن	bɑz kærdæn	open
+13	Light verb constructions	2746	رها کردن	ræhɑ kærdæn	free, let go
+13	Light verb constructions	2518	جدا شدن	ʤodɑ ʃodæn	be separated
+13	Light verb constructions	2520	شاهد بودن	ʃɑhed budæn	witness
+13	Light verb constructions	2522	بالا بردن	bɑlɑ bordæn	put up, raise
+13	Light verb constructions	2531	سال داشتن	sɑl dɑʃtæn	be years old
+13	Light verb constructions	2533	متوقف شدن	motevæɣɣef ʃodæn	stop
+13	Light verb constructions	2534	شرکت داشتن	ʃerkæt dɑʃtæn	participate, attend
+13	Light verb constructions	2598	جمع شدن	ʤæmʔ ʃodæn	gather
+13	Light verb constructions	2612	حمله کردن	hæmle kærdæn	attack
+13	Light verb constructions	2626	ادعا کردن	eddeʔɑ kærdæn	claim
+13	Light verb constructions	2633	قبول داشتن	ɣæbul dɑʃtæn	accept
+13	Light verb constructions	2638	تبدیل کردن	tæbdil kærdæn	convert
+13	Light verb constructions	2668	مصرف کردن	mæsræf kærdæn	consume
+13	Light verb constructions	2681	کنار گذاشتن	kenɑr ɡozɑʃtæn	put away
+13	Light verb constructions	2688	اعتراف کردن	eʔterɑf kærdæn	confess
+13	Light verb constructions	2695	تعطیل شدن	tæʔtil ʃodæn	shut down
+13	Light verb constructions	2703	فراموش کردن	færɑmuʃ kærdæn	forget
+13	Light verb constructions	2713	برخورد کردن	bærxord kærdæn	meet, collide
+13	Light verb constructions	2719	متولد شدن	motævælled ʃodæn	be born
+13	Light verb constructions	2722	یاد کردن	jɑd kærdæn	remember
+13	Light verb constructions	2903	منتشر کردن	montæʃer kærdæn	publish
+13	Light verb constructions	2801	ساله بودن	sɑle budæn	be years old
+13	Light verb constructions	2803	حذف شدن	hazf ʃodæn	be eliminated
+13	Light verb constructions	2822	تلقی شدن	tælæɣɣi ʃodæn	be considered
+13	Light verb constructions	2850	گزارش شدن	ɡozɑreʃ ʃodæn	be reported
+13	Light verb constructions	2853	ظاهر شدن	zɑher ʃodæn	appear
+13	Light verb constructions	3248	بزرگ شدن	bozorɡ ʃodæn	grow up
+13	Light verb constructions	2939	قطع شدن	ɣætʔ ʃodæn	be cut off, terminated
+13	Light verb constructions	2940	مشغول بودن	mæʃɣul budæn	be busy
+13	Light verb constructions	2955	منتقل کردن	montæɣel kærdæn	transfer, transmit
+13	Light verb constructions	2995	باز شدن	bɑz ʃodæn	open
+13	Light verb constructions	3090	بازداشت شدن	bɑzdɑʃt ʃodæn	be arrested
+13	Light verb constructions	3106	معلوم شدن	mæʔlum ʃodæn	become known
+13	Light verb constructions	3122	بنا بودن	bænɑ budæn	be supposed to
+13	Light verb constructions	3132	تحمل کردن	tæhæmmol kærdæn	tolerate
+13	Light verb constructions	3134	طی کردن	tej kærdæn	journey
+13	Light verb constructions	3146	تحمیل کردن	tæhmil kærdæn	impose
+13	Light verb constructions	3152	نابود کردن	nɑbud kærdæn	destroy
+13	Light verb constructions	3174	تشخیص دادن	tæʃxis dɑdæn	distinguish, diagnose
+13	Light verb constructions	3193	به رسمیت شناختن	be ræsmijjæt ʃenɑxtæn	officially recognize
+13	Light verb constructions	3199	خوش آمدن	xoʃ ɑmædɑn	welcome
+13	Light verb constructions	3211	تقسیم کردن	tæɣsim kærdæn	divide, distribute
+13	Light verb constructions	3217	پی بردن	pej bordæn	discover, find out
+13	Light verb constructions	3261	آسیب دیدن	ɑsib didæn	be injured
+13	Light verb constructions	3268	طول کشیدن	tul keʃidæn	last long
+13	Light verb constructions	3273	قبول کردن	ɣæbul kærdæn	accept
+13	Light verb constructions	3275	یاد گرفتن	jɑd ɡereftæn	learn
+13	Light verb constructions	3299	تمایل داشتن	tæmɑjol dɑʃtæn	tend to, gravitate to
+13	Light verb constructions	3301	دامن زدن	dɑmæn zædæn	add fuel
+13	Light verb constructions	3325	پر کردن	por kærdæn	fill
+13	Light verb constructions	3399	تشکر کردن	tæʃækkor kærdæn	thank
+13	Light verb constructions	3403	باور کردن	bɑvær kærdæn	believe
+13	Light verb constructions	3492	بستگی داشتن	bæsteɡi dɑʃtæn	depend
+13	Light verb constructions	3493	مقایسه کردن	moɣɑjese kærdæn	compare
+13	Light verb constructions	3363	جواب دادن	ʤævɑb dɑdæn	reply
+13	Light verb constructions	3412	بیرون آمدن	birun ɑmædæn	emerge
+13	Light verb constructions	3443	اصلاح کردن	eslɑh kærdæn	reform, correct
+13	Light verb constructions	3476	شکایت کردن	ʃekɑjæt kærdæn	complain
+13	Light verb constructions	3486	متوقف کردن	motævæɣɣef kærdæn	stop
+13	Light verb constructions	3487	مربوط بودن	mærbut budæn	be relevant
+13	Light verb constructions	3514	تعلق داشتن	tæʔæloɣ dɑʃtæn	belong
+13	Light verb constructions	3536	به ثمر رساندن	be sæmær resɑndæn	bear fruit
+13	Light verb constructions	3557	عرضه کردن	arze kærdæn	present, offer, supply
+13	Light verb constructions	3563	کمک گرفتن	komæk ɡereftæn	get help
+13	Light verb constructions	3585	مصرف شدن	mæsræf ʃodæn	be consumed
+13	Light verb constructions	3605	تحویل دادن	tæhvil dɑdæn	deliver, hand over
+13	Light verb constructions	3623	راضی بودن	rɑzi budæn	be satisfied
+13	Light verb constructions	3645	آگاه بودن	ɑɡɑh budæn	be aware
+13	Light verb constructions	3650	قائل بودن	ɣɑel budæn	believe, profess
+13	Light verb constructions	3714	سؤال کردن	soʔɑl kærdæn	ask
+13	Light verb constructions	3722	گمان کردن	ɡomɑn kærdæn	suppose
+13	Light verb constructions	3732	بلند شدن	bolænd ʃodæn	rise, grow
+13	Light verb constructions	3747	گسترش دادن	ɡostæreʃ dɑdæn	expand
+13	Light verb constructions	3750	فرا گرفتن	færɑ ɡereftæn	surround, learn
+13	Light verb constructions	3753	زنگ زدن	zænɡ zædæn	ring
+13	Light verb constructions	3764	تکرار کردن	tekrɑr kærdæn	repeat
+13	Light verb constructions	3767	تلقی کردن	tælæɣɣi kærdæn	consider
+13	Light verb constructions	3779	قطع کردن	ɣætʔ kærdæn	cut
+13	Light verb constructions	3788	راه افتادن	rɑh oftɑdæn	set out
+13	Light verb constructions	3794	ارتباط داشتن	ertebɑt dɑʃtæn	be in contact
+13	Light verb constructions	3800	جدا کردن	ʤodɑ kærdæn	separate
+13	Light verb constructions	3804	تشویق کردن	tæʃviɣ kærdæn	encourage
+13	Light verb constructions	3847	توزیع شدن	towziʔ ʃodæn	be distributed
+13	Light verb constructions	3853	تماشا کردن	tæmɑʃɑ kærdæn	watch, view
+13	Light verb constructions	3864	طراحی کردن	tærrɑhi kærdæn	design
+13	Light verb constructions	3878	مرتکب شدن	mortækeb ʃodæn	commit
+13	Light verb constructions	3941	رو شدن	ru ʃodæn	be exposed, bold
+13	Light verb constructions	4102	جمع کردن	ʤæmʔ kærdæn	collect
+13	Light verb constructions	3959	خواستار شدن	xɑstɑr ʃodæn	demand
+13	Light verb constructions	3989	پرتاب کردن	pærtɑb ʃodæn	be thrown, launched
+13	Light verb constructions	3990	سوق دادن	sowɣ dɑdæn	guide, drive
+13	Light verb constructions	3992	علاقه داشتن	ælɑɣe dɑʃtæn	be interested
+13	Light verb constructions	3996	تعقیب کردن	tæʔɣib kærdæn	pursue
+13	Light verb constructions	4016	درست کردن	dorost kærdæn	correct, prepare
+13	Light verb constructions	4056	در زدن	dær zædæn	knock
+13	Light verb constructions	4063	حاکی بودن	hɑki budæn	indicate
+13	Light verb constructions	4077	توجیه کردن	towʤih kærdæn	justify
+13	Light verb constructions	4095	خریداری کردن	xæridɑri kærdæn	purchase
+13	Light verb constructions	4114	درگیر شدن	dærɡir ʃodæn	engage
+13	Light verb constructions	4188	توسعه دادن	towseʔe dɑdæn	expand, develop
+13	Light verb constructions	4191	گرفتار شدن	ɡereftɑr ʃodæn	get caught
+13	Light verb constructions	4116	پس گرفتن	pæs ɡereftæn	take back, withdraw
+13	Light verb constructions	4166	صرف کردن	særf kærdæn	spend time, consume, conjugate
+13	Light verb constructions	4224	فرار کردن	færɑr kærdæn	escape
+13	Light verb constructions	4270	هدایت کردن	hedɑjæt kærdæn	guide
+13	Light verb constructions	4281	دستور دادن	dæstur dɑdæn	order
+13	Light verb constructions	4356	حذف کردن	hæzf kærdæn	eliminate, delete
+13	Light verb constructions	4291	رفتار کردن	ræftɑr kærdæn	behave
+13	Light verb constructions	4293	واگذار کردن	vɑɡozɑr kærdæn	hand over
+13	Light verb constructions	4296	آسیب رساندن	ɑsib resɑndæn	cause injury
+13	Light verb constructions	4311	اعتراض کردن	eʔterɑz kærdæn	protest, object
+13	Light verb constructions	4336	سپری کردن	sepæri kærdæn	spend time
+13	Light verb constructions	4347	پی گرفتن	pej ɡereftæn	follow up
+13	Light verb constructions	4443	دخالت کردن	dexɑlæt kærdæn	interfere
+13	Light verb constructions	4537	گل زدن	ɡol zædæn	score a goal
+13	Light verb constructions	4379	پیاده کردن	pijɑde kærdæn	take apart, unload, execute
+13	Light verb constructions	4381	رها شدن	ræhɑ ʃodæn	be freed
+13	Light verb constructions	4391	رشد کردن	roʃd kærdæn	grow
+13	Light verb constructions	4407	نابود شدن	nɑbud ʃodæn	be destroyed
+13	Light verb constructions	4420	تحلیل کردن	tæhlil kærdæn	analyze
+13	Light verb constructions	4426	ازدواج کردن	ezdevɑʤ kærdæn	marry
+13	Light verb constructions	4459	چاپ کردن	ʧɑp kærdæn	print
+13	Light verb constructions	4464	گوش دادن	ɡuʃ dɑdæn	listen
+13	Light verb constructions	4466	لازم داشتن	lɑzem dɑʃtæn	need
+13	Light verb constructions	4474	تضمین کردن	tæzmin kærdæn	guarantee
+13	Light verb constructions	4507	اشتباه کردن	eʃtebɑh kærdæn	make a mistake
+13	Light verb constructions	4509	تحصیل کردن	tæhsil kærdæn	study
+13	Light verb constructions	4519	ملی شدن	melli ʃodæn	be nationalized
+13	Light verb constructions	4625	حساب کردن	hesɑb kærdæn	calculate, compute
+13	Light verb constructions	4560	راه رفتن	rɑh ræftæn	walk
+13	Light verb constructions	4580	درگذشتن	dærɡozæʃtæn	die
+13	Light verb constructions	4584	آگاه شدن	ɑɡɑh ʃodæn	be informed
+13	Light verb constructions	4586	مطالعه کردن	motɑleʔe kærdæn	read, study
+13	Light verb constructions	4607	رو کردن	ru kærdæn	turn to, look at
+13	Light verb constructions	4637	بحث کردن	bæhs kærdæn	discuss
+13	Light verb constructions	4638	اثر گذاشتن	æsær ɡozɑʃtæn	impress, affect
+13	Light verb constructions	4648	ترجمه شدن	tærʤome ʃodæn	be translated
+13	Light verb constructions	4649	تکمیل کردن	tækmil kærdæn	complete
+13	Light verb constructions	4651	اجازه خواستن	eʤɑze xɑstæn	ask permission
+13	Light verb constructions	4673	گرامی داشتن	ɡerɑmi dɑʃtæn	honor
+13	Light verb constructions	4687	درخواست کردن	dærxɑst kærdæn	request
+13	Light verb constructions	4771	صرف شدن	særf ʃodæn	be spent, consumed, conjugated
+13	Light verb constructions	4772	خسته شدن	xæste ʃodæn	become tired
+13	Light verb constructions	4794	خواهش کردن	xɑheʃ kærdæn	request
+13	Light verb constructions	4831	هزینه کردن	hæzine kærdæn	expend
+13	Light verb constructions	4880	انتقال دادن	enteɣɑl dɑdæn	transfer
+13	Light verb constructions	4885	ذکر کردن	zekr kærdæn	mention, cite
+13	Light verb constructions	4890	پنهان کردن	penhɑn kærdæn	hide
+13	Light verb constructions	4862	کامل شدن	kɑmel ʃodæn	be completed, perfected
+13	Light verb constructions	4958	تعلق گرفتن	tæʔælloɣ ɡereftæn	be given to, go to
+13	Light verb constructions	4961	خبر داشتن	xæbær dɑʃtæn	know, be aware
+13	Light verb constructions	4970	گریه کردن	ɡerje kærdæn	weep, cry
+14	Male names	109	علی	æli	Ali
+14	Male names	161	محمد	mohæmmæd	Mohammad
+14	Male names	278	حسن	hæsæn	Hasan
+14	Male names	730	عباس	æbbɑs	Abbas
+14	Male names	795	محمود	mæhmud	Mahmoud
+14	Male names	834	حسین	hosejn	Hossein
+14	Male names	862	احمد	æhmæd	Ahmad
+14	Male names	1026	رضا	rezɑ	Reza
+14	Male names	1050	عزیز	æziz	Aziz
+14	Male names	1191	مهدی	mehdi	Mehdi
+14	Male names	1217	سعید	sæʔid	Said
+14	Male names	1241	مسلم	moslem	Muslim
+14	Male names	1279	اکبر	ækbær	Akbar
+14	Male names	1301	امیر	æmir	Amir
+14	Male names	1309	ابراهیم	ebrɑhim	Ebrahim
+14	Male names	1311	آرام	ɑrɑm	peaceful
+14	Male names	1342	آدم	ɑdæm	Adam
+14	Male names	1391	بهمن	bæhmæn	avalanche, Bahman
+14	Male names	1417	عبدالله	æbdollɑh	Abdollah
+14	Male names	1443	شریف	ʃærif	honorable
+14	Male names	1538	کمال	kæmɑl	perfection
+14	Male names	1721	معین	moʔin	Moin
+14	Male names	1728	جواد	ʤævɑd	Javad
+14	Male names	1746	کاظم	kɑzem	Kazem
+14	Male names	1772	اسماعیل	esmɑʔil	Ishmael, Esmail
+14	Male names	1867	کریم	kærim	generous, great
+14	Male names	1873	محسن	mohsen	Mohsen
+14	Male names	1929	علیرضا	ælirezɑ	Alireza
+14	Male names	2085	منصور	mænsur	Mansour
+14	Male names	2114	حمید	hæmid	Hamid
+14	Male names	2129	موسی	musɑ	Musa, Moses
+14	Male names	2161	مصطفی	mostæfɑ	Mostafa
+14	Male names	2221	مجید	mæʤid	glorious, Majid
+14	Male names	2225	سامان	sɑmɑn	orderliness
+14	Male names	2241	مسعود	mæsʔud	Masoud
+14	Male names	2265	هادی	hɑdi	conductor, Hadi
+14	Male names	2271	امین	æmin	honest, Amin
+14	Male names	2383	صادق	sɑdeɣ	truthful
+14	Male names	2402	محمدرضا	mohæmmædrezɑ	Mohammad Reza
+14	Male names	2439	رسول	ræsul	messenger
+14	Male names	2441	یوسف	jusof, jusef	Joseph
+14	Male names	2452	نعمت	neʔmæt	gift, blessing
+14	Male names	2489	ناصر	nɑser	Nasser
+14	Male names	2585	پرویز	pærviz	Parviz
+14	Male names	2645	صبا	sæbɑ	zephyr
+14	Male names	2814	فرهاد	færhɑd	Farhad
+14	Male names	2956	رحمت	ræhmæt	compassion
+14	Male names	2958	عارف	ɑref	Sufi, conoisseur
+14	Male names	2963	مالک	mɑlek	owner
+14	Male names	2987	نادر	nɑder	rare, Nader
+14	Male names	2988	سلیمان	solejmɑn	Soleiman, Solomon
+14	Male names	3046	اصغر	æsɣær	Asghar
+14	Male names	3075	کسری	kæsrɑ	Kasra
+14	Male names	3083	تقی	tæɣi	Taghi
+14	Male names	3085	خلیل	xælil	Khalil
+14	Male names	3195	مرتضی	mortezɑ	Morteza
+14	Male names	3227	داوود	dɑvud	Davood
+14	Male names	3327	خسرو	xosrow	Khosrow
+14	Male names	3423	جعفر	ʤæʔfær	Jafar
+14	Male names	3439	شاهین	ʃɑhin	falcon, Shahin
+14	Male names	3440	پویا	pujɑ	dynamic
+14	Male names	3475	جمال	ʤæmɑl	beauty, Jamal
+14	Male names	3520	مراد	morɑd	desire, Morad
+14	Male names	3676	داریوش	dɑrjuʃ	Darius
+14	Male names	3822	رحیم	ræhim	merciful, Rahim
+14	Male names	3880	حامد	hɑmed	Hamed
+14	Male names	3883	شهریار	ʃæhrijɑr	monarch
+14	Male names	3934	بابک	bɑbæk	Babak
+14	Male names	3982	قاسم	ɣɑsem	Ghasem
+14	Male names	4004	بهرام	bæhrɑm	Bahram
+14	Male names	4010	مهران	mehrɑn	Mehran
+14	Male names	4042	محمدعلی	mohæmmædæli	Mohammad Ali
+14	Male names	4103	عادل	ɑdel	just
+14	Male names	4105	عیسی	isɑ	Jesus
+14	Male names	4176	نیما	nimɑ	Nima
+14	Male names	4242	وحید	væhid	Vahid
+14	Male names	4244	نوید	nævid	good news, Navid
+14	Male names	4414	مجتبی	moʤtæbɑ	Mojtaba
+14	Male names	4418	حبیب	hæbib	friend, lover, Habib
+14	Male names	4440	جمشید	ʤæmʃid	Jamshid
+14	Male names	4469	بهروز	behruz	Behruz
+14	Male names	4484	فریدون	ferejdun, færidun	Fereydun
+14	Male names	4498	قربان	ɣorbɑn	sacrifice
+14	Male names	4579	نیکو	niku	good, fair
+14	Male names	4592	همایون	homɑjun	Homayun
+14	Male names	4677	رشید	ræʃid	well grown, Rashid
+14	Male names	4702	مهرداد	mehrdɑd	Mehrdad
+14	Male names	4703	بیژن	biʒæn	Bijan
+14	Male names	4730	سلمان	sælmɑn	Salman, Solomon
+14	Male names	4743	منوچهر	mænuʧehr	Manuchehr
+14	Male names	4817	رستم	rostæm	Rostam
+14	Male names	4902	بهزاد	behzɑd	Behzad
+14	Male names	4954	جهانگرد	ʤæhɑnɡærd	explorer
+14	Male names	4974	کامران	kɑmrɑn	Kamran
+14	Male names	4994	سیاوش	sijɑvæʃ	Siavash
+15	Materials	406	نفت	næft	oil
+15	Materials	551	خاک	xɑk	soil, dust
+15	Materials	938	طلا	tælɑ	gold
+15	Materials	1021	آهن	ɑhæn	iron
+15	Materials	1056	سوخت	suxt	fuel
+15	Materials	1105	چینی	ʧini	porcelain
+15	Materials	1326	سنگ	sænɡ	rock
+15	Materials	1913	فولاد	fulɑd	steel
+15	Materials	2400	نقره	noɣre	silver
+15	Materials	2403	بنزین	benzin	gasoline
+15	Materials	2426	برنج	berenʤ	brass
+15	Materials	2436	سیم	sim	wire
+15	Materials	2514	شیشه	ʃiʃe	glass
+15	Materials	2611	روغن	rowɣæn	oil
+15	Materials	2691	پارچه	pɑrʧe	cloth, fabric
+15	Materials	2771	فلز	felez	metal
+15	Materials	2871	چوب	ʧub	wood
+15	Materials	2905	مس	mes	copper
+15	Materials	2910	کاغذ	kɑɣæz	paper
+15	Materials	2920	جواهر	ʤævɑher	jewel
+15	Materials	2960	کاشی	kɑʃi	tile
+15	Materials	2968	سیمان	simɑn	cement
+15	Materials	3369	مایع	mɑjeʔ	liquid
+15	Materials	4025	ابریشم	æbriʃæm	silk
+15	Materials	4804	ماسه	mɑse	sand
+15	Materials	5219	نخ	næx	thread, string
+15	Materials	5300	پنبه	pænbe	cotton
+15	Materials	5456	پلاستیک	pelɑstik	plastic
+15	Materials	5793	خاکستر	xɑkestær	ash
+15	Materials	6274	آجر	ɑʤor	brick
+15	Materials	6406	سرب	sorb	lead
+15	Materials	6427	طناب	tænɑb	rope, cord
+15	Materials	6551	زر	zær	gold
+15	Materials	6909	الماس	ælmɑs	diamond
+15	Materials	7133	آسفالت	ɑsfɑlt	asphalt
+15	Materials	8015	پشم	pæʃm	wool
+15	Materials	8930	زغال	zoɣɑl	coal
+15	Materials	9716	بلور	bolur	crystal
+15	Materials	18535	لاجورد	lɑʤværd	lapis lazuli
+16	Nationalities	233	ایرانی	irɑni	Iranian
+16	Nationalities	452	آمریکایی	ɑmrikɑji	American
+16	Nationalities	478	انگلیسی	enɡelisi	English
+16	Nationalities	698	ترک	tork	Turk
+16	Nationalities	942	عرب	æræb	Arab
+16	Nationalities	952	فرانسوی	færɑnsævi	French
+16	Nationalities	1105	چینی	ʧini	Chinese
+16	Nationalities	1211	آلمانی	ɑlmɑni	German
+16	Nationalities	1354	فلسطینی	felestini	Palestinian
+16	Nationalities	1420	روسی	rusi	Russian
+16	Nationalities	2093	افغان	æfɣɑn	Afghan
+16	Nationalities	2125	هندی	hendi	Indian
+16	Nationalities	2199	ایتالیایی	itɑlijɑji	Italian
+16	Nationalities	2218	روس	rus	Russian
+16	Nationalities	2261	عراقی	erɑɣi	Iraqi
+16	Nationalities	2311	اسرائیلی	esrɑʔili	Israeli
+16	Nationalities	2755	ژاپنی	ʒɑponi	Japanese
+16	Nationalities	2778	مصری	mesri	Egyptian
+16	Nationalities	3285	پاکستانی	pɑkestɑni	Pakistani
+16	Nationalities	3388	افغانی	æfɣɑni	Afghan
+16	Nationalities	3442	اسپانیایی	espɑnjɑji	Spanish
+16	Nationalities	3453	سوری	suri	Syrian
+16	Nationalities	3708	ارمنی	ærmæni	Armenian
+16	Nationalities	4087	تاجیک	tɑʤik	Tajik
+16	Nationalities	4143	ترکمن	torkæmæn	Turkmen
+16	Nationalities	4202	استرالیایی	ostrɑlijɑji	Australian
+16	Nationalities	4449	برزیلی	berezili	Brazilian
+16	Nationalities	4475	کانادایی	kɑnɑdɑji	Canadian
+16	Nationalities	4850	لبنانی	lobnɑni	Lebanese
+16	Nationalities	5870	بحرینی	bahrejni	Bahreini
+16	Nationalities	6150	لهستانی	læhestɑni	Polish
+16	Nationalities	6540	بریتانیایی	beritɑnjɑji	British
+16	Nationalities	6555	پرتغالی	porteɣɑli	Portuguese
+16	Nationalities	6701	کویتی	kovejti	Kuwaiti
+16	Nationalities	7297	سوئدی	suʔedi	Swedish
+16	Nationalities	7420	الجزایری	ælʤæzɑjeri	Algerian
+16	Nationalities	7610	ایرلندی	irlændi	Irish
+16	Nationalities	7677	بلژیکی	belʒiki	Belgian
+16	Nationalities	7832	آذری	ɑzæri	Azeri
+16	Nationalities	7958	نروژی	norveʒi	Norwegian
+16	Nationalities	8055	اردنی	ordoni	Jordanian
+16	Nationalities	8285	کره‌ای	koreji	Korean
+16	Nationalities	8432	گرجی	ɡorʤi	Georgian
+16	Nationalities	8553	تایلندی	tɑjlændi	Thai
+16	Nationalities	8856	دانمارکی	dɑnmɑrki	Danish
+16	Nationalities	9189	اوکراینی	okrɑjni	Ukrainian
+16	Nationalities	9525	آرژانتینی	ɑrʒɑntini	Argentine
+16	Nationalities	11714	مکزیکی	mekziki	Mexican
+16	Nationalities	12895	کلمبیایی	kolombijɑji	Colombian
+17	Nature	79	ماه	mɑh	moon
+17	Nature	179	آب	ɑb	water
+17	Nature	243	زمین	zæmin	ground
+17	Nature	372	گل	ɡol, ɡel	flower, mud
+17	Nature	474	هوا	hævɑ	air
+17	Nature	551	خاک	xɑk	soil, dust
+17	Nature	574	آتش	ɑtæʃ	fire
+17	Nature	625	دریا	dærjɑ	sea
+17	Nature	1160	رود	rud	river
+17	Nature	1224	موج	mowʤ	wave
+17	Nature	1326	سنگ	sænɡ	rock
+17	Nature	1362	جزیره	ʤæzire	island
+17	Nature	1435	ستاره	setɑre	star
+17	Nature	1439	بندر	bændær	port
+17	Nature	1496	درخت	deræxt	tree
+17	Nature	1537	خورشید	xorʃid	sun
+17	Nature	1605	باغ	bɑɣ	garden
+17	Nature	1659	ساحل	sɑhel	shore
+17	Nature	1678	کوه	kuh	mountain
+17	Nature	1763	آسمان	ɑsmɑn	heaven
+17	Nature	1848	رودخانه	rudxɑne	river
+17	Nature	1925	جنگل	ʤænɡæl	forest, jungle
+17	Nature	2060	خلیج	xæliʤ	gulf
+17	Nature	2149	کانال	kɑnɑl	channel, canal
+17	Nature	2320	چاه	ʧɑh	well
+17	Nature	2385	سیل	sejl	flood
+17	Nature	2512	دریاچه	dærjɑʧe	lake
+17	Nature	2535	گیاه	ɡijɑh	plant
+17	Nature	2838	دشت	dæʃt	plain
+17	Nature	2883	اقیانوس	oɣjɑnus	ocean
+17	Nature	3295	دره	dærre	valley
+17	Nature	3580	بیابان	bijɑbɑn	desert
+17	Nature	3643	چشمه	ʧeʃme	spring
+17	Nature	3647	بوستان	bustɑn	orchard
+17	Nature	4250	تالاب	tɑlɑb	pond, wetlands
+17	Nature	4252	سیاره	sæjjɑre	planet
+17	Nature	4804	ماسه	mɑse	sand
+17	Nature	6005	غار	ɣɑr	cave
+17	Nature	6168	باتلاق	bɑtlɑɣ	marsh
+17	Nature	7067	آبشار	ɑbʃɑr	waterfall
+17	Nature	7184	علف	ælæf	grass
+17	Nature	7329	کاج	kɑʤ	pine
+17	Nature	8112	بلوط	bælut	oak
+17	Nature	8960	آتشفشان	ɑtæʃfeʃɑn	volcano
+17	Nature	9063	صدف	sædæf	seashell
+17	Nature	15427	آبراه	ɑbrɑh	canal
+18	Politics	40	شهر	ʃæhr	city
+18	Politics	90	دولت	dowlæt	government
+18	Politics	103	سیاسی	sijɑsi	political
+18	Politics	133	وزیر	væzir	minister
+18	Politics	165	قانون	ɣɑnun	law
+18	Politics	187	مجلس	mæʤles	parliament
+18	Politics	219	جمهوری	ʤomhuri	republic
+18	Politics	223	سیاست	sijɑsæt	policy, politics
+18	Politics	289	وزارت	vezɑræt	ministry
+18	Politics	301	استان	ostɑn	province
+18	Politics	337	انتخابات	entexɑbɑt	elections
+18	Politics	412	حزب	hezb	party
+18	Politics	470	دولتی	dowlæti	governmental
+18	Politics	538	حکومت	hokumæt	government
+18	Politics	576	بین‌المللی	bejnolmelæli	international
+18	Politics	711	کمیته	komite	committee
+18	Politics	785	جمهور	ʤomhur	republic
+18	Politics	937	صلح	solh	peace
+18	Politics	1004	ایالت	ejɑlæt	state
+18	Politics	1074	شاه	ʃɑh	king, shah
+18	Politics	1152	شهرستان	ʃæhrestɑn	county
+18	Politics	1212	صهیونیستی	sehjunisti	Zionist
+18	Politics	1826	نخست‌وزیر	noxostvæzir	prime minister
+18	Politics	1962	جمهوری‌اسلامی	ʤomhurije eslɑmi	Islamic Republic
+18	Politics	2070	سیاستمدار	sijɑsætmædɑr	politician
+18	Politics	2227	رئیس‌جمهور	ræʔisʤomhur	president
+18	Politics	2286	توده	tude	mass, Tudeh
+18	Politics	2762	استاندار	ostɑndɑr	governor-general
+18	Politics	2841	دموکراتیک	demokrɑtik	democratic
+18	Politics	3125	کمونیست	komonist	communist
+18	Politics	3188	مشروطه	mæʃrute	constitutional
+18	Politics	3190	صهیونیست	sæhjunist	Zionist
+18	Politics	3586	فرماندار	færmɑndɑr	governor
+18	Politics	3679	لیبرال	liberɑl	liberal
+18	Politics	3698	فرمانداری	færmɑndɑri	governorship
+18	Politics	3752	جمهوریخواه	ʤomhurixɑh	republican
+18	Politics	4125	شاهزاده	ʃɑhzɑde	prince
+18	Politics	4486	ولسوالی	volosvɑli	Afghan county
+18	Politics	4778	اساسنامه	æsɑsnɑme	charter, constitution
+18	Politics	4780	سوسیالیست	sosijɑlist	socialist
+18	Politics	4824	کمونیستی	komonisti	communist
+18	Politics	4921	جرگه	ʤærɡe	circle, jirga
+18	Politics	5129	اصلاح‌طلب	eslɑhtælæb	reformist
+18	Politics	6217	والی	vɑli	governor
+18	Politics	6557	محافظه‌کار	mohɑfezekɑr	conservative
+18	Politics	17145	اصول‌گرا	osulɡerɑ	fundamentalist
+19	Professions	133	وزیر	væzir	minister
+19	Professions	368	فرهنگی	færhænɡi	cultural, educational
+19	Professions	420	حاکم	hɑkem	ruler
+19	Professions	486	نظامی	nezɑmi	military
+19	Professions	503	معاون	moʔɑven	assistant
+19	Professions	521	دانشجو	dɑneʃʤu	student
+19	Professions	629	خبرنگار	xæbærneɡɑr	reporter
+19	Professions	798	محقق	mohæɣɣeɣ	scholar
+19	Professions	830	بازیکن	bɑzikon	player
+19	Professions	852	نویسنده	nevisænde	writer
+19	Professions	911	فرمانده	færmɑnde	commander
+19	Professions	947	دانشمند	dɑneʃmænd	scientist
+19	Professions	971	شاعر	ʃɑʔer	poet
+19	Professions	976	همکار	hæmkɑr	colleague
+19	Professions	978	متخصص	motexæsses	expert, specialist
+19	Professions	1015	کارگر	kɑrɡær	worker
+19	Professions	1046	سخنگو	soxænɡu	spokesperson
+19	Professions	1129	پزشک	pezeʃk	doctor
+19	Professions	1145	قاضی	ɣɑzi	judge
+19	Professions	1164	اشتغال	eʃteɣɑl	occupation
+19	Professions	1215	هنرمند	honærmænd	artist
+19	Professions	1268	سرباز	særbɑz	soldier
+19	Professions	1269	معلم	moʔællem	teacher
+19	Professions	1300	وکیل	vækil	attorney
+19	Professions	1301	امیر	æmir	emir
+19	Professions	1332	کارکنان	kɑrkonɑn	employees
+19	Professions	1347	کارمند	kɑrmænd	employee
+19	Professions	1646	راننده	rɑnænde	driver
+19	Professions	1722	ورزشکار	værzeʃkɑr	athlete
+19	Professions	1793	پژوهشگر	pæʒuheʃɡær	researcher
+19	Professions	1825	مهندس	mohændes	engineer
+19	Professions	1826	نخست‌وزیر	noxostvæzir	prime minister
+19	Professions	1853	روحانی	rowhɑni	cleric
+19	Professions	1895	بازیگر	bɑziɡær	actor
+19	Professions	1898	شغلی	ʃoɣli	job related
+19	Professions	1916	نگهبان	neɡæhbɑn	guard
+19	Professions	1986	بیکاری	bikɑri	unemployment
+19	Professions	1992	تولید‌کننده	towlidkonænde	producer
+19	Professions	2014	تدریس	tædris	teaching
+19	Professions	2053	جانشین	ʤɑneʃin	successor, substitute
+19	Professions	2070	سیاستمدار	sijɑsætmædɑr	politician
+19	Professions	2084	کشاورز	keʃɑværz	farmer
+19	Professions	2124	دبیرکل	dæbirekol	secretary general
+19	Professions	2227	رئیس‌جمهور	ræʔisʤomhur	president
+19	Professions	2239	خواننده	xɑnænde	singer
+19	Professions	2281	سرپرست	særpæræst	supervisor
+19	Professions	2291	مدیرعامل	modire ɑmel	managing director
+19	Professions	2319	شاگرد	ʃɑɡerd	student
+19	Professions	2398	افسر	æfsær	officer
+19	Professions	2428	ژنرال	ʒenerɑl	general
+19	Professions	2466	ناشر	nɑʃer	publisher
+19	Professions	2487	استخدام	estexdɑm	employment
+19	Professions	2508	بیکار	bikɑr	unemployed
+19	Professions	2662	شهردار	ʃæhrdɑr	mayor
+19	Professions	2671	کارگردان	kɑrɡærdɑn	director
+19	Professions	2762	استاندار	ostɑndɑr	governor-general
+19	Professions	2767	راهنما	rɑhnæmɑ	guide
+19	Professions	2881	بازرس	bɑzres	inspector
+19	Professions	2904	مورخ	moværrex	historian
+19	Professions	2933	بازرگان	bɑzærɡɑn	merchant
+19	Professions	2982	دانش‌آموز	dɑneʃɑmuz	student
+19	Professions	2992	صادرکننده	sɑderkonænde	exporter
+19	Professions	3025	سرمربی	særmoræbbi	head coach
+19	Professions	3048	دولتمرد	dowlætmærd	statesman, official
+19	Professions	3078	تحلیلگر	tæhlilɡær	analyst
+19	Professions	3159	مدیرکل	modirekol	director general
+19	Professions	3182	دستمزد	dæstmozd	wages
+19	Professions	3290	بازنشسته	bɑzneʃæste	retired
+19	Professions	3365	تاجر	tɑʤer	merchant
+19	Professions	3390	سرهنگ	særhænɡ	colonel
+19	Professions	3494	حرفه	herfe	profession
+19	Professions	3497	نقاش	næɣɣɑʃ	painter
+19	Professions	3586	فرماندار	færmɑndɑr	governor
+19	Professions	3595	طراح	tærrɑh	designer
+19	Professions	3601	دیپلمات	diplomɑt	diplomat
+19	Professions	3604	روزنامه‌نگار	ruznɑmeneɡɑr	journalist
+19	Professions	3624	معمار	meʔmɑr	architect
+19	Professions	3704	پروفسور	porofosor	professor
+19	Professions	3850	سخنران	soxænrɑn	speaker
+19	Professions	3886	قاچاقچی	ɣɑʧɑɣʧi	smuggler
+19	Professions	3919	کارفرما	kɑrfærmɑ	employer
+19	Professions	3921	کارگزار	kɑrɡozɑr	agent
+19	Professions	3933	شاغل	ʃɑɣel	employed
+19	Professions	4132	فیلمساز	filmsɑz	filmmaker
+19	Professions	4195	سرتیپ	særtip	brigadier general
+19	Professions	4417	خلبان	xælæbɑn	pilot
+19	Professions	4458	صنعتگر	sænʔætɡær	artisan
+19	Professions	4599	جراح	ʤærrɑh	surgeon
+19	Professions	5299	گزارشگر	ɡozɑreʃɡær	reporter
+19	Professions	6042	شکارچی	ʃekɑrʧiʃʃʃ	ekri
+19	Professions	6082	آموزگار	ɑmuzɡɑr	teacher
+19	Professions	6442	سوداگر	sowdɑɡær	trader, businessman
+19	Professions	6709	امدادگر	emdɑdɡær	relief worker
+19	Professions	6769	کاوشگر	kɑvoʃɡær	investigator
+19	Professions	7808	زرگر	zærɡær	goldsmith
+19	Professions	15011	تاریخ‌نگار	tɑrixneɡɑr	historian
+20	Religion	86	اسلامی	eslɑmi	Islamic
+20	Religion	161	محمد	mohæmmæd	Mohammad
+20	Religion	276	اسلام	eslɑm	Islam
+20	Religion	278	حسن	hæsæn	Hasan
+20	Religion	385	حوزه	howze	seminary
+20	Religion	399	شهید	ʃæhid	martyr
+20	Religion	460	امام	emɑm	imam
+20	Religion	466	دینی	dini	religious
+20	Religion	524	رهبر	ræhbær	leader
+20	Religion	546	خدا	xodɑ	God
+20	Religion	552	جمعه	ʤomʔe	Friday
+20	Religion	564	مراسم	mærɑsem	ceremony
+20	Religion	626	حضرت	hæzræt	holiness
+20	Religion	666	رهبری	ræhbæri	leadership
+20	Religion	677	شیخ	ʃejx	sheikh
+20	Religion	679	حکم	hokm	order, sentence
+20	Religion	684	مسلمان	mosælmɑn	Muslim
+20	Religion	691	سید	sejjed	descendant of prophet
+20	Religion	730	عباس	æbbɑs	Abbas
+20	Religion	788	مسجد	mæsʤed	mosque
+20	Religion	834	حسین	hosejn	Hossein
+20	Religion	896	مذهبی	mæzhæbi	religious
+20	Religion	897	میلادی	milɑdi	A.D.
+20	Religion	942	عرب	æræb	Arab
+20	Religion	1018	عمر	omær	Umar
+20	Religion	1026	رضا	rezɑ	Reza
+20	Religion	1032	عربی	æræbi	Arabic
+20	Religion	1052	الله	ællɑh	Allah
+20	Religion	1171	سنی	sonni	Sunni
+20	Religion	1176	جهاد	ʤæhɑd	jihad
+20	Religion	1182	خیر	xejr, xæjjer	good, generous
+20	Religion	1191	مهدی	mæhdi	Mahdi
+20	Religion	1205	مقدس	moɣæddæs	holy
+20	Religion	1235	یوم	jowm	day
+20	Religion	1241	مسلم	moslem	Muslim
+20	Religion	1294	جامع	ʤɑmeʔ	Congregational, Friday
+20	Religion	1301	امیر	æmir	emir
+20	Religion	1417	عبدالله	æbdollɑh	Abdollah
+20	Religion	1530	شهادت	ʃæhɑdæt	martyrdom
+20	Religion	1580	روح	ruh	spirit
+20	Religion	1582	الهی	elɑhi	divine
+20	Religion	1585	ایمان	imɑn	faith
+20	Religion	1589	مشهد	mæʃhæd	Mashhad
+20	Religion	1606	حسینی	hosejni	Hosseini, of Imam Hossein
+20	Religion	1611	قرآن	ɣorʔɑn	Koran
+20	Religion	1633	مسیحی	mæsihi	Christian
+20	Religion	1641	ولایت	velɑjæt	Governance, Guardianship
+20	Religion	1655	خمینی	xomejni	Khomeini
+20	Religion	1728	جواد	ʤævɑd	Javad
+20	Religion	1746	کاظم	kɑzem	Kazem
+20	Religion	1751	محمدی	mohæmmædi	Mohammadi
+20	Religion	1842	معنوی	mæʔnævi	spiritual
+20	Religion	1846	یهودی	jæhudi	Jew, Jewish
+20	Religion	1853	روحانی	rowhɑni	cleric, Rowhani
+20	Religion	1920	مشروع	mæʃruʔ	permissible
+20	Religion	1926	حاج	hɑʤ	Haji
+20	Religion	1962	جمهوری‌اسلامی	ʤomhurije eslɑmi	Islamic Republic
+20	Religion	1970	رمضان	ræmezɑn	Ramadan
+20	Religion	2028	فقیه	fæɣih	Islamic jurist
+20	Religion	2037	ارشاد	erʃɑd	guidance
+20	Religion	2083	آیت‌الله	ɑjætollɑh	ayatollah
+20	Religion	2089	ظهور	zohur	appearance (of Imam Mahdi)
+20	Religion	2106	ترویج	tærviʤ	promotion
+20	Religion	2129	موسی	musɑ	Musa, Moses
+20	Religion	2159	شمسی	ʃæmsi	solar
+20	Religion	2162	قمری	ɣæmæri	lunar
+20	Religion	2194	پیامبر	pæjɑmbær	prophet
+20	Religion	2220	زیارت	zijɑræt	pilgrimage
+20	Religion	2221	مجید	mæʤid	glorious, Majid
+20	Religion	2230	افراطی	efrɑti	extremist
+20	Religion	2236	حرم	hæræm	sanctuary
+20	Religion	2383	صادق	sɑdeɣ	Sadiq
+20	Religion	2407	مراجع	mærɑʤe	references, Maraji (supreme legal authorities)
+20	Religion	2439	رسول	ræsul	messenger
+20	Religion	2441	یوسف	jusof, jusef	Joseph
+20	Religion	2444	کلیسا	kelisɑ	church
+20	Religion	2599	بهشت	beheʃt	heaven
+20	Religion	2641	قیام	ɣijɑm	rising
+20	Religion	2648	جعفری	ʤæʔfæri	Jafari
+20	Religion	2650	زهرا	zæhrɑ	Zahra
+20	Religion	2698	صلیب	sælib	cross
+20	Religion	2708	کیش	kiʃ	faith, religion
+20	Religion	2723	امت	ommæt	Ummah
+20	Religion	2739	مرجع	mærʤæɁ	supreme legal authority
+20	Religion	2743	نجف	næʤæf	Najaf
+20	Religion	2807	معرفت	mæʔrefæt	knowledge
+20	Religion	2855	حج	hæʤʤ	Hajj
+20	Religion	2885	محرم	mæhræm, mohærræm	close relative/ confidant, Moharram
+20	Religion	2893	خلیفه	xælife	caliph
+20	Religion	2957	حجت	hoʤʤæt	reasoning, proof
+20	Religion	3022	مریم	mærjæm	Maryam
+20	Religion	3046	اصغر	æsɣær	Asghar
+20	Religion	3060	کربلا	kærbælɑ	Karbala
+20	Religion	3142	مجاهد	moʤɑhed	holy warrior
+20	Religion	3227	داوود	dɑvud	Davood, David
+20	Religion	3287	عاشورا	ɑʃurɑ	Ashura
+20	Religion	3317	خاندان	xɑndɑn	clan
+20	Religion	3359	حاجی	hɑʤi	Hajji
+20	Religion	3423	جعفر	ʤæʔfær	Jafar
+20	Religion	3634	مؤمن	moʔmen	devout, faithful, believer
+20	Religion	3658	اهل بیت	æhle bejt	Mohammad's family
+20	Religion	3666	عبادت	ebɑdæt	worship
+20	Religion	3673	سوره	sure	sura
+20	Religion	3771	آیین	ɑjin	religion, ceremony, ritual
+20	Religion	3822	رحیم	ræhim	merciful, Rahim
+20	Religion	3923	آیه	ɑje	Koranic verse
+20	Religion	3957	ابراهیمی	ebrɑhimi	Abrahamic
+20	Religion	3968	فرشته	fereʃte	angel
+20	Religion	4036	نازل	nɑzel	delivered (heavenly book), sent down, appear (angel)
+20	Religion	4105	عیسی	isɑ	Jesus
+20	Religion	4164	قرائت	ɣærɑʔæt	recitation
+20	Religion	4187	شیعی	ʃiʔi	Shiite
+20	Religion	4211	حجاب	heʤɑb	veil, hijab
+20	Religion	4225	معاویه	moʔɑvije	Muawiyah
+20	Religion	4261	اکرم	ækræm	dearer, his holiness
+20	Religion	4319	حرام	hærɑm	forbidden
+20	Religion	4324	خدایی	xodɑji	divine
+20	Religion	4359	علیه السلام	ælejhessælɑm	peace be upon him
+20	Religion	4400	روحانیت	rowhɑnijæt	clergy
+20	Religion	4526	معنویت	mæʔnævijjæt	spirituality
+20	Religion	4562	امامت	emɑmæt	imamship
+20	Religion	4603	زائر	zɑʔer	pilgrim
+20	Religion	4617	معصوم	mæʔsum	innocent
+20	Religion	4711	بهایی	bæhɑji	Bahai
+20	Religion	4722	قرآنی	ɣorʔɑni	Koranic
+20	Religion	4730	سلمان	sælmɑn	Salman
+20	Religion	4849	عزاداری	æzɑdɑri	mourning
+20	Religion	4861	مکه	mække	Mecca
+20	Religion	4898	ابومسلم	æbumoslem	Abu Muslim
+20	Religion	4960	فتوا	fætvɑ	fatwa
+20	Religion	4975	رساله	resɑle	risala, scriptures
+20	Religion	5018	تشیع	tæʃæjjoʔ	Shi'ism
+21	Simple verbs	2	بودن	budæn	be
+21	Simple verbs	9	شدن	ʃodæn	become
+21	Simple verbs	14	خواستن	xɑstæn	want
+21	Simple verbs	16	داشتن	dɑʃtæn	have
+21	Simple verbs	17	کردن	kærdæn	do
+21	Simple verbs	19	بایستن	bɑjestæn	must
+21	Simple verbs	23	توانستن	tævɑnestæn	be able
+21	Simple verbs	24	رسیدن	residæn	arrive
+21	Simple verbs	34	گرفتن	ɡereftæn	take
+21	Simple verbs	37	گفتن	ɡoftæn	say
+21	Simple verbs	42	دادن	dɑdæn	give
+21	Simple verbs	87	دانستن	dɑnestæn	know
+21	Simple verbs	93	آمدن	ɑmædæn	come
+21	Simple verbs	99	یافتن	jɑftæn	find
+21	Simple verbs	112	آوردن	ɑværdæn	bring
+21	Simple verbs	128	رفتن	ræftæn	go
+21	Simple verbs	147	بردن	bordæn	take
+21	Simple verbs	192	رساندن	resɑndæn	deliver
+21	Simple verbs	194	گذاشتن	ɡozɑʃtæn	put, leave
+21	Simple verbs	202	دیدن	didæn	see
+21	Simple verbs	211	پرداختن	pærdɑxtæn	pay, engage in
+21	Simple verbs	257	گذشتن	ɡozæʃtæn	pass
+21	Simple verbs	277	افزودن	æfzudæn	add
+21	Simple verbs	280	خواندن	xɑndæn	read
+21	Simple verbs	305	نمودن	nemudæn	show, do
+21	Simple verbs	310	زدن	zædæn	beat, strike
+21	Simple verbs	315	نوشتن	neveʃtæn	write
+21	Simple verbs	316	ساختن	sɑxtæn	build
+21	Simple verbs	494	شایستن	ʃɑjestæn	be possible, deserve
+21	Simple verbs	505	ماندن	mɑndæn	stay
+21	Simple verbs	604	گردیدن	ɡærdidæn	turn
+21	Simple verbs	658	گشتن	ɡæʃtæn	turn
+21	Simple verbs	686	خوردن	xordæn	eat
+21	Simple verbs	689	پذیرفتن	pæziroftæn	accept
+21	Simple verbs	705	شناختن	ʃenɑxtæn	know, recognize
+21	Simple verbs	714	بخشیدن	bæxʃidæn	forgive, give
+21	Simple verbs	752	کشاندن	keʃɑndæn	drag, pull
+21	Simple verbs	774	نشستن	neʃæstæn	sit
+21	Simple verbs	786	کشیدن	keʃidæn	pull, draw
+21	Simple verbs	850	افتادن	oftɑdæn	fall
+21	Simple verbs	903	کشتن	koʃtæn	kill
+21	Simple verbs	967	فرمودن	færmudæn	order, say
+21	Simple verbs	1030	انداختن	ændɑxtæn	throw
+21	Simple verbs	1080	شکستن	ʃekæstæn	break
+21	Simple verbs	1223	ایستادن	istɑdæn	stand
+21	Simple verbs	1233	شنیدن	ʃenidæn	hear
+21	Simple verbs	1242	پیوستن	pejvæstæn	join
+21	Simple verbs	1361	بستن	bæstæn	close
+21	Simple verbs	1463	پرسیدن	porsidæn	ask
+21	Simple verbs	1513	ریختن	rixtæn	pour
+21	Simple verbs	1587	آموختن	ɑmuxtæn	learn, teach
+21	Simple verbs	1666	فرستادن	ferestɑdæn	send
+21	Simple verbs	1681	نامیدن	nɑmidæn	name
+21	Simple verbs	1706	گذراندن	ɡozærɑndæn	spend time, pass
+21	Simple verbs	1738	اندیشیدن	ændiʃidæn	think
+21	Simple verbs	1744	ربودن	robudæn	steal, kidnap
+21	Simple verbs	1782	فهمیدن	fæhmidæn	understand
+21	Simple verbs	1818	فروختن	foruxtæn	sell
+21	Simple verbs	1849	طلبیدن	tælæbidæn	call, ask, require
+21	Simple verbs	2034	انجامیدن	ænʤɑmidæn	end
+21	Simple verbs	2041	پوشیدن	puʃidæn	wear
+21	Simple verbs	2044	جستن	ʤæstæn, ʤostæn	jump, search
+21	Simple verbs	2049	سپردن	sepordæn	deposit, entrust
+21	Simple verbs	2103	راندن	rɑndæn	drive, repulse
+21	Simple verbs	2228	ورزیدن	værzidæn	exercise
+21	Simple verbs	2255	پوشاندن	puʃɑndæn	dress
+21	Simple verbs	2369	مردن	mordæn	die
+21	Simple verbs	2378	گشودن	ɡoʃudæn	open
+21	Simple verbs	2410	کاستن	kɑstæn	reduce
+21	Simple verbs	2451	افکندن	æfkændæn	throw
+21	Simple verbs	2543	نهادن	næhɑdæn	put, place
+21	Simple verbs	2550	نگریستن	neɡæristæn	look
+21	Simple verbs	2564	سوختن	suxtæn	burn
+21	Simple verbs	2600	خریدن	xæridæn	buy
+21	Simple verbs	2661	شمردن	ʃemordæn	count
+21	Simple verbs	2690	نشاندن	neʃɑndæn	seat
+21	Simple verbs	2894	ترسیدن	tærsidæn	fear
+21	Simple verbs	3039	کوبیدن	kubidæn	pound, grind
+21	Simple verbs	3071	باختن	bɑxtæn	lose
+21	Simple verbs	3209	گریختن	ɡorixtæn	flee
+21	Simple verbs	3234	خندیدن	xændidæn	laugh
+21	Simple verbs	3283	دویدن	dævidæn	run
+21	Simple verbs	3782	خوابیدن	xɑbidæn	sleep
+21	Simple verbs	3814	پیمودن	pejmudæn	measure, traverse
+21	Simple verbs	3873	دوختن	duxtæn	sew
+21	Simple verbs	4104	نواختن	nævɑxtæn	play
+21	Simple verbs	4203	چیدن	ʧidæn	pick, pluck, set
+21	Simple verbs	4327	بافتن	bɑftæn	weave
+21	Simple verbs	4361	نوشیدن	nuʃidæn	drink
+21	Simple verbs	4438	گرویدن	ɡerævidæn	adopt a belief
+21	Simple verbs	4513	گنجاندن	ɡonʤɑndæn	pack, include
+21	Simple verbs	4623	گرداندن	ɡærdɑndæn	rotate, manage
+21	Simple verbs	4633	پریدن	pæridæn	jump, fly
+21	Simple verbs	4647	سنجیدن	sænʤidæn	measure
+21	Simple verbs	4665	زیستن	zistæn	live
+21	Simple verbs	4697	آمیختن	ɑmixtæn	mix
+21	Simple verbs	4755	جنگیدن	ʤænɡidæn	fight
+21	Simple verbs	4758	کاهیدن	kɑhidæn	detract
+21	Simple verbs	4766	چرخیدن	ʧærxidæn	turn
+21	Simple verbs	4769	تابیدن	tɑbidæn	shine, twist
+21	Simple verbs	4802	پیچیدن	piʧidæn	twist
+21	Simple verbs	4818	درخشیدن	deræxʃidæn	shine
+21	Simple verbs	4833	پاشیدن	pɑʃidæn	scatter, sprinkle
+21	Simple verbs	4852	هراسیدن	hærɑsidæn	fear
+21	Simple verbs	4936	پختن	poxtæn	cook
+22	Sports	39	دو	dow	running
+22	Sports	121	تیم	tim	team
+22	Sports	285	بازی	bɑzi	game, play
+22	Sports	372	گل	ɡol	goal
+22	Sports	384	مسابقه	mosɑbeɣe	competition
+22	Sports	490	فوتبال	futbɑl	soccer
+22	Sports	569	استقلال	esteɣlɑl	Esteghlal F.C.
+22	Sports	688	جام	ʤɑm	cup
+22	Sports	823	کشتی	koʃti	wrestling
+22	Sports	830	بازیکن	bɑzikon	player
+22	Sports	880	ورزشی	værzeʃi	athletic, sporty
+22	Sports	923	قهرمانی	ɣæhremɑni	championship
+22	Sports	938	طلا	tælɑ	gold
+22	Sports	961	ورزش	værzeʃ	sport
+22	Sports	1096	ذخیره	zæxire	reserve
+22	Sports	1102	دروازه	dærvɑze	goal
+22	Sports	1162	قهرمان	ɣæhremɑn	champion
+22	Sports	1282	مربی	moræbbi	coach
+22	Sports	1385	جایزه	ʤɑjeze	award
+22	Sports	1396	برنده	bærænde	winner
+22	Sports	1616	توپ	tup	ball
+22	Sports	1722	ورزشکار	værzeʃkɑr	athlete
+22	Sports	1730	والیبال	vɑlibɑl	volleyball
+22	Sports	1787	ورزشگاه	værzeʃɡɑh	stadium
+22	Sports	1832	لیگ	liɡ	league
+22	Sports	1895	بازیگر	bɑziɡær	player
+22	Sports	1905	مدال	medɑl	medal
+22	Sports	2031	داور	dɑvær	referee
+22	Sports	2105	پاس	pɑs	pass
+22	Sports	2371	خطا	xætɑ	foul
+22	Sports	2400	نقره	noɣre	silver
+22	Sports	2549	بسکتبال	bæsketbɑl	basketball
+22	Sports	2586	داوری	dɑværi	refereeing
+22	Sports	2595	شنا	ʃenɑ	swimming
+22	Sports	2647	پرسپولیس	perspolis	Persepolis F.C.
+22	Sports	2774	مهاجم	mohɑʤem	striker, forward
+22	Sports	3025	سرمربی	særmoræbbi	head coach
+22	Sports	3115	برنز	boronz	bronze
+22	Sports	3478	تیراندازی	tirændɑzi	shooting
+22	Sports	3740	تنیس	tenis	tennis
+22	Sports	3885	فیفا	fifɑ	FIFA
+22	Sports	4141	فوتسال	futsɑl	indoor soccer
+22	Sports	4447	استخر	estæxr	pool
+22	Sports	4929	هندبال	hændbɑl	handball
+22	Sports	5190	بازنده	bɑzænde	loser
+22	Sports	5569	دروازه‌بان	dærvɑzebɑn	goalkeeper
+22	Sports	10257	زورخانه	zurxɑne	Iranian traditional gym
+22	Sports	17958	والیبالیست	vɑlibɑlist	volleyball player
+23	Time	22	سال	sɑl	year
+23	Time	30	روز	ruz	day
+23	Time	35	پیش	piʃ	before
+23	Time	52	قبل	ɣæbl	before
+23	Time	53	مدت	moddæt	term, period
+23	Time	79	ماه	mɑh	month
+23	Time	83	زمان	zæmɑn	time
+23	Time	96	بار	bɑr	turn, time
+23	Time	118	بعد	bæʔd	then, after
+23	Time	132	دوره	dowre	period
+23	Time	163	پایان	pɑjɑn	end
+23	Time	180	آینده	ɑjænde	future
+23	Time	201	امروز	emruz	today
+23	Time	242	ساعت	sɑʔæt	hour, time
+23	Time	269	هفته	hæfte	week
+23	Time	332	تاریخ	tɑrix	history
+23	Time	388	دقیقه	dæɣiɣe	minute
+23	Time	396	زمانی	zæmɑni	chronological
+23	Time	407	دوران	dowrɑn	period, era
+23	Time	410	وقت	væɣt	time
+23	Time	411	وقتی	væɣti	when
+23	Time	414	فصل	fæsl	season
+23	Time	417	شب	ʃæb	night
+23	Time	499	دهه	dæhe	decade
+23	Time	511	عصر	æsr	afternoon, age, era
+23	Time	609	قبلی	ɣæbli	previous
+23	Time	656	امسال	emsɑl	this year
+23	Time	672	هنگام	henɡɑm	time
+23	Time	707	گاه	ɡɑh	time
+23	Time	732	بعدی	bæʔdi	next
+23	Time	918	صبح	sobh	morning
+23	Time	940	دیروز	diruz	yesterday
+23	Time	987	قرن	ɣærn	century
+23	Time	1016	قبلاً	qæblæn	before
+23	Time	1033	همزمان	hæmzæmɑn	simultaneously
+23	Time	1092	سالانه	sɑlɑne	annual
+23	Time	1117	موقع	mowɣeʔ	time
+23	Time	1174	لحظه	læhze	moment
+23	Time	1216	فردا	færdɑ	tomorrow
+23	Time	1296	روزانه	ruzɑne	daily
+23	Time	1314	مرتبه	mærtæbe	time, floor
+23	Time	1395	موقت	movæɣɣæt	temporary
+23	Time	1434	ماهی	mɑhi	a month, per month
+23	Time	1520	زود	zud	soon
+23	Time	1618	پایانی	pɑjɑni	final
+23	Time	1684	امروزه	emruze	nowadays
+23	Time	1954	هیچگاه	hiʧɡɑh	never
+23	Time	2095	ثانیه	sɑnije	second
+23	Time	2355	بزودی	bezudi	soon
+23	Time	2443	شبانه	ʃæbɑne	nightly
+23	Time	2477	ظهر	zohr	noon
+23	Time	2562	سالگرد	sɑlɡærd	anniversary
+23	Time	2642	تقویم	tæɣvim	calendar
+23	Time	2643	امشب	emʃæb	tonight
+23	Time	2830	امروزی	emruzi	modern, contemporary
+23	Time	2989	بعداً	bæʔdæn	later, then
+23	Time	3028	هزاره	hezɑre	millennium
+23	Time	3200	آنگاه	ɑnɡɑh	then
+23	Time	3201	سده	sæde	century
+23	Time	3214	سالروز	sɑlruz	anniversary
+23	Time	3264	روزمره	ruzmærre	routine
+23	Time	3410	سالیانه	sɑlijɑne	annually
+23	Time	3598	زمانه	zæmɑne	era, age
+23	Time	3674	ماهانه	mɑhɑne	monthly
+23	Time	3711	پارسال	pɑrsɑl	last year
+23	Time	3783	یکسال	jeksɑl	one year
+23	Time	3967	بعدازظهر	bæʔdæzzohr	afternoon
+23	Time	3976	دیشب	diʃæb	last night
+23	Time	4534	هرگاه	hærɡɑh	whenever
+23	Time	4604	موقتی	movæɣɣæti	temporary
+23	Time	4731	فصلی	fæsli	seasonal
+23	Time	4911	سحر	sæhær	dawn
+23	Time	5059	موعد	mowʔed	deadline
+23	Time	5227	درازمدت	derɑzmoddat	long-term
+23	Time	5266	درسال	dærsɑl	per year, annually
+23	Time	5366	سال‌جاری	sɑleʤɑri	This year, current year
+23	Time	5475	بلندمدت	bolændmoddæt	long-term
+23	Time	6031	زودهنگام	zudhenɡɑm	premature, early
+23	Time	6283	شبانه‌روز	ʃæbɑneruz	24 hours
+23	Time	6739	زمانیکه	zæmɑnike	when
+23	Time	6842	ماهیانه	mɑhijɑne	monthly
+23	Time	7379	موقتاً	movæɣɣætæn	temporarily
+23	Time	7472	کوتاه‌مدت	kutɑhmoddæt	short term
+23	Time	8672	ناگاه	nɑɡɑh	suddenly
+23	Time	9048	روز‌قبل	ruzeɣæbl	the day before
+23	Time	9303	هرساله	hærsɑle	each year, every year
+23	Time	9718	دوسالانه	dosɑlɑne	biennial
+23	Time	10016	گهگاه	ɡæɡɑh	occasionally, from time to time
+23	Time	10096	عقربه	æɣræbe	hand (clock)
+23	Time	10365	هنگامیکه	henɡɑmike	when
+23	Time	10700	زودگذر	zudɡozær	temporary
+23	Time	11016	سحرگاه	sæhærɡɑh	dawn, early morning, daybreak
+23	Time	11524	به‌موقع	bemowɣeʔ	on time
+23	Time	12156	وقتیکه	væɣtike	when
+23	Time	12297	پریشب	pæriʃæb	the night before last
+23	Time	12408	همه‌ساله	hæmesɑle	perennial, annually
+23	Time	12847	همه‌روزه	hæmeruze	everyday
+23	Time	12878	صدساله	sædsɑle	centenary, centennial
+23	Time	12987	نیمه‌شب	nimeʃæb	midnight
+23	Time	14056	بیگاه	biɡɑh	untimely
+23	Time	14340	هرازگاهی	hæræzɡɑhi	occasionally, once in a while
+23	Time	14601	زمان‌بندی	zæmɑnbændi	timing, scheduling
+23	Time	14896	پس‌فردا	pæsfærdɑ	the day after tomorrow
+23	Time	15682	یک‌شبه	jekʃæbe	over night
+23	Time	15840	سالنامه	sɑlnɑme	calendar
+23	Time	16380	فرداشب	færdɑʃæb	tomorrow night
+23	Time	17060	دیرهنگام	dirhenɡɑm	late
+23	Time	18315	طولانی‌مدت	tulɑnimoddat	long-term
+23	Time	19153	قبل‌از	ɣæblæz	before
+23	Time	19520	یکمرتبه	jekmærtæbe	once, suddenly
+23	Time	19662	موقعیکه	mowɣeʔike	when
+24	Days (in day order)	476	شنبه	ʃæmbe	Saturday
+24	Days (in day order)	1433	یکشنبه	jekʃæmbe	Sunday
+24	Days (in day order)	1262	دوشنبه	doʃæmbe	Monday
+24	Days (in day order)	2098	سه‌شنبه	seʃæmbe	Tuesday
+24	Days (in day order)	1200	چهارشنبه	ʧæhɑrʃæmbe	Wednesday
+24	Days (in day order)	1502	پنجشنبه	pænʤʃæmbe	Thursday
+24	Days (in day order)	552	جمعه	ʤomʔe	Friday
+25	Persian months (by month order)	2918	فروردین	færværdin	Farvardin, Aries
+25	Persian months (by month order)	2501	اردیبهشت	ordibeheʃt	Ordibehesht, Taurus
+25	Persian months (by month order)	1760	خرداد	xordɑd	Khordad, Gemini
+25	Persian months (by month order)	1287	تیر	tir	Tir, Cancer
+25	Persian months (by month order)	2365	مرداد	mordɑd	Mordad, Leo
+25	Persian months (by month order)	1974	شهریور	ʃæhrivær	Shahrivar, Virgo
+25	Persian months (by month order)	613	مهر	mehr	Mehr, Libra
+25	Persian months (by month order)	4714	آبان	ɑbɑn	Aban, Scorpio
+25	Persian months (by month order)	5849	آذر	ɑzær	Azar, Sagittarius
+25	Persian months (by month order)	1743	دی	dej	Dey, Capricorn
+25	Persian months (by month order)	1391	بهمن	bæhmæn	Bahman, Aquarius
+25	Persian months (by month order)	2590	اسفند	esfænd	Esfand, Pisces
+26	Dari months (by month order)	1118	حمل	hæmæl	Aries
+26	Dari months (by month order)	12791	ثور	sowr, sæwr	Taurus
+26	Dari months (by month order)		جوزا	ʤowzɑ, ʤæwzɑ	Gemini
+26	Dari months (by month order)	2003	سرطان	særætɑn	Cancer
+26	Dari months (by month order)	2865	اسد	æsæd	Leo
+26	Dari months (by month order)	17507	سنبله	sombole, sombolæ	Virgo
+26	Dari months (by month order)	245	میزان	mizɑn	Libra
+26	Dari months (by month order)	10535	عقرب	æɣræb	Scorpio
+26	Dari months (by month order)	6861	قوس	ɣows, ɣæws	Sagittarius
+26	Dari months (by month order)	307	جدی	ʤædi	Capricorn
+26	Dari months (by month order)	11311	دلو	dælv, dælw	Aquarius
+26	Dari months (by month order)	18000	حوت	hut	Pisces
+27	Islamic months (by month order)	2885	محرم	mohærræm	Muharram
+27	Islamic months (by month order)	1036	صفر	sæfær	Safar
+27	Islamic months (by month order)	19346	ربیع‌الاول	ræbiʔolævvæl	Rabi' al-awwal
+27	Islamic months (by month order)	19776	ربیع‌الثانی	ræbiʔossɑni	Rabi' al-thani
+27	Islamic months (by month order)		جمادی‌الاول	ʤomɑdijolævvæl	Jumada al-awwal
+27	Islamic months (by month order)		جمادی‌الثانی	ʤomɑdijossɑni	Jumada al-thani
+27	Islamic months (by month order)	4839	رجب	ræʤæb	Rajab
+27	Islamic months (by month order)	5002	شعبان	ʃæʔbɑn	Sha'ban
+27	Islamic months (by month order)	1970	رمضان	ræmezɑn	Ramadan
+27	Islamic months (by month order)	11964	شوال	ʃævvɑl	Shawwal
+27	Islamic months (by month order)		ذیقعده	ziɣæʔde	Dhu al-Qa'dah
+27	Islamic months (by month order)		ذیحجه	zihæʤʤe	Dhu al-Hijjah
+28	French months (by month order)	3797	ژانویه	ʒɑnvije	January
+28	French months (by month order)	3958	فوریه	fevrije	February
+28	French months (by month order)	2950	مارس	mɑrs	March
+28	French months (by month order)	5582	آوریل	ɑvril	April
+28	French months (by month order)	3312	مه	me	May
+28	French months (by month order)	8340	ژوئن	ʒuʔæn	June
+28	French months (by month order)	11204	ژوئیه	ʒuʔije	July
+28	French months (by month order)	5072	اوت	ut	August
+28	French months (by month order)	2240	سپتامبر	septɑmbr	September
+28	French months (by month order)	2908	اکتبر	oktobr	October
+28	French months (by month order)	2735	نوامبر	novɑmbr	November
+28	French months (by month order)	3175	دسامبر	desɑmbr	December
+29	Transport	47	راه	rɑh	way, road
+29	Transport	344	سفر	sæfær	travel
+29	Transport	634	پرواز	pærvɑz	flight
+29	Transport	796	خیابان	xijɑbɑn	street
+29	Transport	823	کشتی	keʃti	ship
+29	Transport	873	مسافر	mosɑfer	traveler, passenger
+29	Transport	1077	هواپیما	hævɑpejmɑ	airplane
+29	Transport	1264	فرودگاه	forudɡɑh	airport
+29	Transport	1452	ماشین	mɑʃin	car
+29	Transport	1492	پل	pol	bridge
+29	Transport	1646	راننده	rɑnænde	driver
+29	Transport	1705	مقصد	mæɣsæd	destination
+29	Transport	1885	ایستگاه	istɡɑh	station
+29	Transport	2009	قطار	ɣætɑr	train
+29	Transport	2150	عازم	ɑzem	leaving, departing, setting off
+29	Transport	2158	موتور	motor	engine, motorcycle
+29	Transport	2181	اتوبوس	otobus	bus
+29	Transport	2354	کاروان	kɑrevɑn	caravan
+29	Transport	2364	کوچه	kuʧe	lane, alley
+29	Transport	2382	کامیون	kɑmjon	truck
+29	Transport	2561	سوار	sævɑr	rider
+29	Transport	2655	فرود	forud	landing
+29	Transport	2656	سرنشین	særneʃin	passenger
+29	Transport	2717	ترافیک	terɑfik	traffic, traffic jam
+29	Transport	3384	مترو	metro	metro
+29	Transport	3427	کوی	kuj	quarter, alley, street
+29	Transport	3689	مبدأ	mæbdæʔ	origin
+29	Transport	3699	دوچرخه	doʧærxe	bicycle
+29	Transport	3827	بزرگراه	bozorɡrɑh	expressway, highway
+29	Transport	4417	خلبان	xælæbɑn	pilot
+29	Transport	4558	قایق	ɣɑjeɣ	boat, canoe
+29	Transport	7011	موتورسیکلت	motorsiklet	motorcycle
+29	Transport	10478	کالسکه	kɑleske	carriage
+29	Transport	13329	مهماندار	mehmɑndɑr	steward
+29	Transport	13807	درشکه	doroʃke	carriage
+30	War	152	نیرو	niru	force
+30	War	263	جنگ	ʤænɡ	war
+30	War	302	دفاع	defɑʔ	defense
+30	War	393	مرگ	mærɡ	death
+30	War	399	شهید	ʃæhid	martyr
+30	War	404	امنیت	æmnijæt	security
+30	War	486	نظامی	nezɑmi	military
+30	War	534	حمله	hæmle	attack
+30	War	553	عملیات	æmælijɑt	operation
+30	War	598	پلیس	polis	police
+30	War	622	پیروزی	piruzi	victory
+30	War	733	زندان	zendɑn	prison
+30	War	776	تسلیم	tæslim	surrender
+30	War	789	دشمن	doʃmæn	enemy
+30	War	823	کشتی	keʃti	ship
+30	War	946	سلاح	selɑh	weapon
+30	War	955	خشونت	xoʃunæt	violence
+30	War	1006	شکست	ʃekæst	defeat, failure
+30	War	1127	انفجار	enfeʤɑr	explosion
+30	War	1176	جهاد	ʤæhɑd	jihad
+30	War	1268	سرباز	særbɑz	soldier
+30	War	1337	متحد	mottæhed	ally
+30	War	1409	جبهه	ʤebhe	front
+30	War	1530	شهادت	ʃæhɑdæt	martyrdom
+30	War	1548	طالبان	tɑlebɑn	Taliban
+30	War	1553	سپاه	sepɑh	army, IRGC
+30	War	1599	نبرد	næbærd	battle
+30	War	1616	توپ	tup	cannon
+30	War	1694	فتح	fæth	victory
+30	War	1698	ترور	teror	assassination
+30	War	1700	بازداشت	bɑzdɑʃt	arrest
+30	War	1819	گلوله	ɡolule	bullet
+30	War	1881	خودی	xodi	friendly
+30	War	1991	مجروح	mæʤruh	injured
+30	War	2101	کودتا	kudetɑ	coup d'état
+30	War	2130	اشغال	eʃɣɑl	occupation
+30	War	2195	شیمیایی	ʃimijɑji	chemical
+30	War	2222	بمب	bomb	bomb
+30	War	2262	اتمی	ætomi	atomic
+30	War	2267	تروریسم	terorism	terrorism
+30	War	2421	موشک	muʃæk	missile
+30	War	2428	ژنرال	ʒenerɑl	general
+30	War	2752	اسیر	æsir	captive
+30	War	2942	ائتلاف	eʔtelɑf	coalition
+30	War	3029	ناو	nɑv	naval vessel, battleship
+30	War	3063	محاصره	mohɑsere	blockade
+30	War	3071	باختن	bɑxtæn	lose
+30	War	3167	شلیک	ʃellik	firing, shooting
+30	War	3231	گردان	ɡordɑn	battalion
+30	War	3269	تانک	tɑnk	tank
+30	War	3390	سرهنگ	særhænɡ	colonel
+30	War	3454	بمباران	bombɑrɑn	bombardment
+30	War	3462	سربازی	særbɑzi	military service
+30	War	3496	جانباز	ʤɑnbɑz	disabled war veteran
+30	War	3819	تروریست	terorist	terrorist
+30	War	3826	تسخیر	tæsxir	conquest, conquer, capture
+30	War	4068	پادگان	pɑdeɡɑn	garrison, barracks, base
+30	War	4201	بازجویی	bɑzʤuji	interrogation
+30	War	4417	خلبان	xælæbɑn	pilot
+30	War	4421	جنگنده	ʤænɡænde	fighter aircarft
+30	War	4481	مین	min	mine
+30	War	4501	اسارت	esɑræt	captivity
+30	War	4557	آزاده	ɑzɑde	Iranian released (Iran-Iraq) war captives
+30	War	4976	کلانتری	kælɑntæri	police station
+30	War	5257	سنگر	sænɡær	trench
+30	War	5265	انهدام	enhedɑm	destruction, demolition
+30	War	5592	ملوان	mælævɑn	sailor, seaman
+30	War	5614	جاسوس	ʤɑsus	spy
+30	War	5922	تفنگ	tofænɡ	gun, rifle
+30	War	7881	آزادسازی	ɑzɑdsɑzi	liberalization, liberation
+30	War	7891	رژه	reʒe	parade, march
+30	War	7919	خمپاره	xompɑre	mortar shell
+30	War	9889	مسلسل	mosælsæl	machine gun
+30	War	12435	تیمسار	timsɑr	general
+31	Weather	414	فصل	fæsl	season
+31	Weather	474	هوا	hævɑ	air
+31	Weather	506	برق	bærɣ	lightning
+31	Weather	584	بهار	bæhɑr	spring
+31	Weather	1097	درجه	dæræʤe	degree
+31	Weather	1177	گرم	ɡærm	hot, warm
+31	Weather	1350	باد	bɑd	wind
+31	Weather	1406	سرد	særd	cold
+31	Weather	1642	باران	bɑrɑn	rain
+31	Weather	1672	تابستان	tɑbestɑn	summer
+31	Weather	1909	گرما	ɡærmɑ	heat
+31	Weather	2123	زمستان	zemestɑn	winter
+31	Weather	2135	برف	bærf	snow
+31	Weather	2234	طوفان	tufɑn	storm
+31	Weather	2385	سیل	sejl	flood
+31	Weather	2490	سرما	særmɑ	cold
+31	Weather	2496	دما	dæmɑ	temperature
+31	Weather	2645	صبا	sæbɑ	zephyr
+31	Weather	2795	ابر	æbr	cloud
+31	Weather	3032	خشکسالی	xoʃksɑli	drought
+31	Weather	3312	مه	meh	fog
+31	Weather	3389	پاییز	pɑjiz	autumn
+31	Weather	3560	یخ	jæx	ice
+31	Weather	3780	اقلیم	eɣlim	climate
+31	Weather	3789	حرارت	hærɑræt	heat, temperature
+31	Weather	4147	ابری	æbri	cloudy
+31	Weather	5071	خنک	xonæk	cool
+31	Weather	5106	بارانی	bɑrɑni	rainy
+31	Weather	5217	رعد	ræʔd	thunder
+31	Weather	5516	طوفانی	tufɑni	stormy
+31	Weather	5599	نسیم	næsim	breeze
+31	Weather	5727	رطوبت	rotubæt	humidity
+31	Weather	6720	آفتابی	ɑftɑbi	sunny
+31	Weather	7510	شبنم	ʃæbnæm	dew
+31	Weather	11443	تگرگ	tæɡærɡ	hail
+31	Weather	11809	ژاله	ʒɑle	dew
+31	Weather	12418	تندباد	tondbɑd	gale, hurricane
+31	Weather	13128	تندر	tondær	thunder
