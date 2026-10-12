@@ -11,7 +11,8 @@ part of speech, example sentence, translation and frequency figure is the book's
 
 * **Online:** enable GitHub Pages for this repository (Settings → Pages → *Deploy from a branch* →
   branch `main`, folder `/ (root)` → Save). The site is then served at
-  `https://<user>.github.io/<repo>/`.
+  `https://<user>.github.io/<repo>/`. On a free GitHub plan Pages is only available for public
+  repositories; a private repository needs GitHub Pro (the published site is public either way).
 * **Offline:** download the repository and open `index.html` in a browser. Everything is
   self-contained (`data/data.js` holds the dictionary); only the web fonts come from Google Fonts
   and the page falls back to system fonts without them.
